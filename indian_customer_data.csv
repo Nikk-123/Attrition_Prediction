@@ -1,0 +1,1001 @@
+Customer ID,Name,Age,Gender,City,State,Income Level (INR),Tenure (Months),Number of Activations,Number of Reactivations,Number of Cancels,Number of Products Owned,Types of Products,Average Monthly Spending (INR),Emails Sent,Calls Made,Returns,App Usage Frequency (per week),Product Events (per day),Attrition Risk
+363965,Gunbir Batra,74,Male,Sultan Pur Majra,Mizoram,173358,67,1,2,2,6,Locks,926.4,25,10,0,35,19,No
+753589,Vedika Manne,44,Other,Tenali,Tripura,127949,110,4,2,2,3,"Cameras, Alarms",4998.98,26,10,1,47,31,No
+235721,Dakshesh Kaur,33,Female,Ramgarh,Andhra Pradesh,72106,71,0,3,1,6,"Cameras, Locks, Doorbells",4854.95,22,1,4,42,61,No
+184162,Chandran Baria,39,Female,Raurkela Industrial Township,Bihar,102241,24,5,0,0,7,Doorbells,1726.97,29,8,3,6,98,Yes
+977526,Radhika Bali,39,Other,Udaipur,Manipur,129392,54,3,2,2,7,Doorbells,2765.51,45,2,3,32,4,No
+346636,Urishilla Dave,21,Male,Parbhani,Maharashtra,54989,43,2,3,1,5,Locks,2474.01,11,11,0,22,42,No
+335242,William Dugal,53,Other,Karnal,Punjab,55560,29,3,2,2,3,"Doorbells, Sensors, Cameras",2865.15,10,6,3,25,85,Yes
+227693,Frado Suri,71,Female,Kanpur,Uttarakhand,102581,120,4,0,1,5,"Alarms, Doorbells",3045.21,20,15,1,12,88,No
+546492,Darika Ghosh,43,Male,Ahmedabad,Assam,45762,115,3,2,1,9,"Locks, Doorbells",1165.55,21,7,5,20,65,No
+405370,Tejas Pau,29,Male,Unnao,Jharkhand,33285,57,1,0,0,2,"Cameras, Sensors",2211.53,22,9,1,16,85,No
+709973,Unnati Deol,55,Female,Jehanabad,Assam,182608,92,1,3,1,3,"Locks, Doorbells",1428.35,24,17,0,0,50,No
+251796,Zarna Patel,31,Other,Raipur,Maharashtra,86216,78,3,0,0,3,"Sensors, Cameras, Doorbells",1483.25,48,19,5,37,50,No
+417139,Amaira Sarraf,31,Male,Guntakal,Uttar Pradesh,63962,112,5,2,1,1,Sensors,2187.35,18,20,0,17,19,No
+158215,David Pradhan,48,Other,Mangalore,Gujarat,60952,63,3,2,1,2,"Alarms, Locks, Cameras",3671.22,37,18,4,10,40,Yes
+518892,Lucky Desai,74,Female,Deoghar,Rajasthan,107213,61,5,3,0,4,Doorbells,2310.91,17,13,2,47,45,No
+894448,Isaac Anand,28,Female,Narasaraopet,Andhra Pradesh,41356,112,5,2,0,9,Cameras,3458.49,27,0,2,19,2,No
+403543,Chakradev Chaudhari,18,Other,Hajipur,Himachal Pradesh,37256,56,4,0,1,4,"Cameras, Locks",1461.28,32,20,2,2,5,Yes
+237703,Rajata Subramanian,59,Other,Sambhal,Karnataka,83965,17,5,2,2,4,"Locks, Cameras",821.78,49,1,0,6,65,Yes
+197854,Abhiram Comar,24,Female,Arrah,Arunachal Pradesh,189847,65,5,3,2,1,"Doorbells, Sensors",1212.85,20,9,4,31,47,No
+881637,Kavya Dugar,43,Female,Rewa,Meghalaya,55166,103,1,2,2,6,"Sensors, Doorbells, Cameras",1705.96,44,13,1,40,61,No
+978560,Vidhi Sarma,20,Other,Shimoga,Sikkim,120135,29,0,0,1,8,"Sensors, Alarms",500.93,23,0,4,16,73,Yes
+845482,Ekansh Kala,25,Female,Mathura,Himachal Pradesh,61830,31,5,2,0,2,Sensors,1353.52,10,12,5,23,61,Yes
+747980,Gavin Gera,48,Female,Hapur,Punjab,32001,96,2,0,2,7,"Alarms, Doorbells",4391.18,23,1,5,21,52,No
+710149,Hritik Soman,48,Male,Panipat,Uttar Pradesh,95398,111,1,1,0,6,Sensors,1728.28,0,8,4,33,54,No
+926640,Mekhala Khanna,56,Male,Dhule,Assam,41004,25,3,0,2,1,"Cameras, Doorbells, Locks",2227.9,2,18,0,16,21,Yes
+378996,Kalpit Hari,53,Female,Chinsurah,Uttarakhand,62821,78,0,1,2,8,"Doorbells, Cameras, Locks",3129.07,50,10,5,13,44,No
+197530,Laban Karnik,26,Male,Tiruppur,Bihar,31982,21,2,3,2,5,"Cameras, Locks, Alarms",1071.31,46,11,1,28,49,Yes
+597950,Frederick Shere,46,Other,Satara,Goa,137386,78,4,0,0,7,"Sensors, Alarms, Doorbells",1484.73,7,16,2,50,15,No
+526309,Ganga Tella,28,Male,Deoghar,Assam,29570,80,5,3,2,5,"Locks, Cameras",2412.51,45,20,1,44,35,No
+263745,Patrick Tandon,74,Other,Siwan,Himachal Pradesh,136085,64,3,0,1,2,"Doorbells, Sensors",2806.9,8,0,0,23,18,No
+237667,Chaaya Bansal,33,Other,Hajipur,Goa,149774,95,4,2,0,5,"Alarms, Locks, Cameras",752.47,39,15,3,17,34,No
+377726,Watika Mody,53,Male,Nizamabad,Manipur,141124,59,2,2,0,5,"Cameras, Sensors, Locks",3805.12,20,16,3,35,31,No
+801662,Aashi Kade,69,Female,Sirsa,Himachal Pradesh,129072,81,5,3,0,9,"Locks, Sensors, Cameras",2413.52,13,19,2,50,27,No
+831620,Yashoda Apte,59,Female,Bhatpara,Tamil Nadu,123206,113,5,1,0,10,"Sensors, Locks",717.91,27,12,3,0,9,No
+630716,Naksh Kant,26,Other,Bhatpara,Nagaland,85852,61,0,3,1,1,Locks,3009.14,1,10,1,32,19,No
+633431,Saumya Narayan,48,Other,Warangal,Punjab,182706,5,0,0,2,4,Sensors,1676.45,5,6,0,31,43,Yes
+636936,Urvi Manda,23,Male,Bilaspur,Punjab,119848,65,0,2,0,6,"Doorbells, Alarms",1958.78,20,9,4,25,60,No
+138860,Dipta Sarna,75,Male,Jamnagar,Mizoram,121736,115,0,3,2,4,Cameras,3466.29,42,19,2,15,77,No
+313251,Reyansh Ahluwalia,38,Other,Chapra,Uttarakhand,185049,27,3,3,0,10,"Cameras, Sensors, Doorbells",3405.84,49,10,4,9,67,Yes
+495661,Zilmil Anne,30,Female,Shahjahanpur,Tripura,66857,63,4,3,0,10,"Cameras, Locks, Sensors",631.44,27,14,0,20,56,No
+461783,Maanav Sandhu,33,Male,Kirari Suleman Nagar,Assam,87038,39,0,0,1,3,"Cameras, Doorbells",3520.08,35,17,1,35,14,Yes
+192907,Bachittar Edwin,40,Female,Medininagar,Tamil Nadu,54226,46,5,1,1,8,Cameras,2291,45,5,4,31,1,Yes
+832633,Faris Sarraf,63,Female,Akola,Bihar,52918,39,3,3,2,5,"Locks, Alarms, Doorbells",1926.57,50,7,5,9,4,Yes
+454978,Ekapad Anne,67,Female,Kirari Suleman Nagar,Punjab,192101,71,5,1,2,8,"Cameras, Sensors",3350.52,31,16,5,43,26,No
+659145,Chaitanya Behl,68,Other,Dehradun,Mizoram,133717,50,2,3,0,3,Alarms,3298.81,13,3,4,16,44,Yes
+234356,Siya Issac,66,Female,Karnal,Haryana,123798,13,2,3,1,7,"Doorbells, Alarms",1245.37,14,2,5,45,99,Yes
+729404,Dayamai Varma,48,Male,Bhind,Odisha,158377,80,5,0,1,8,Cameras,3476.3,12,6,5,0,35,No
+130950,Nandini Barman,28,Other,Patna,Meghalaya,137676,118,2,0,2,6,Cameras,3980.24,23,16,2,38,32,No
+337567,Sudiksha Vig,21,Male,Baranagar,Karnataka,174671,72,3,0,2,9,Sensors,1896.8,15,10,0,8,72,No
+256285,Dhriti Ravi,28,Male,Chittoor,Karnataka,100963,115,3,1,0,10,"Locks, Sensors, Doorbells",1589.86,17,13,2,32,4,No
+470241,Ojasvi Chawla,42,Male,Rohtak,Chhattisgarh,190301,111,2,2,2,8,"Sensors, Cameras, Alarms",4541.23,3,6,4,35,69,No
+841544,Bhavini Dora,54,Other,Durgapur,Andhra Pradesh,22917,64,1,0,0,6,"Cameras, Alarms, Doorbells",1938.07,9,13,2,15,84,No
+735732,Udant Dey,45,Other,Bijapur,Rajasthan,82470,58,4,0,0,2,"Sensors, Cameras, Doorbells",809.29,49,11,4,39,61,No
+557462,Jyoti Viswanathan,18,Male,Guntur,Manipur,81022,2,1,0,2,8,"Alarms, Locks",4173.19,20,0,2,27,1,Yes
+872612,Baghyawati Gopal,20,Female,Gwalior,Meghalaya,54887,83,5,1,0,6,"Doorbells, Cameras",1740.93,3,5,1,11,0,No
+555183,Owen Sant,37,Male,Imphal,Jharkhand,43104,24,3,0,1,3,Alarms,4755.35,43,13,4,48,40,Yes
+147438,Reyansh Shankar,42,Male,Anand,Haryana,194126,10,3,2,1,4,Locks,1434.53,24,18,2,3,98,Yes
+335492,Suhani Dugar,54,Female,Sangli-Miraj & Kupwad,Madhya Pradesh,50751,111,1,1,1,1,Cameras,4473.9,34,4,3,28,89,No
+574154,Varsha Munshi,65,Female,Ahmednagar,Maharashtra,110011,103,4,2,0,3,"Cameras, Sensors",2729.9,11,11,0,46,84,No
+846456,Siya Sharaf,47,Male,Kumbakonam,Tripura,39475,87,0,1,0,3,"Sensors, Cameras, Alarms",1537.41,20,2,2,14,84,No
+217405,Qasim Balay,67,Other,Ambattur,Jharkhand,147348,34,1,0,0,9,"Doorbells, Alarms, Locks",1209.13,16,7,4,22,86,Yes
+139204,Harinakshi Nagar,33,Female,Karnal,Madhya Pradesh,154977,107,3,3,0,2,Sensors,4056.58,19,14,5,14,12,No
+640230,Radha Yadav,30,Male,Jhansi,Assam,97699,111,2,0,0,3,Cameras,1046.3,1,13,0,22,50,No
+743720,Sarthak Pandey,50,Male,Rajahmundry,Manipur,177442,55,2,2,2,8,Cameras,3903.64,48,19,2,37,56,No
+572266,Krishna Prashad,31,Other,Panipat,Manipur,67472,97,4,2,0,6,"Sensors, Cameras, Alarms",4638.83,30,13,3,40,62,No
+992989,Turvi Sharaf,55,Female,Jamshedpur,Tamil Nadu,24266,83,4,0,1,5,"Alarms, Sensors, Doorbells",1279.6,34,10,5,35,96,No
+272930,Kalpit Sahota,29,Other,Chennai,Goa,44003,24,4,1,2,7,Cameras,3815.59,41,4,1,17,66,Yes
+353469,Tamanna Chander,53,Other,Dehradun,Maharashtra,95293,52,2,2,2,7,"Alarms, Sensors, Cameras",2587.26,45,3,2,0,64,Yes
+843849,Odika Gandhi,37,Other,Bhilwara,Punjab,106724,48,3,1,1,7,"Locks, Cameras",1499.68,13,19,3,50,41,No
+343617,Kiaan Sarin,44,Male,Chennai,West Bengal,33200,105,0,2,2,1,Alarms,4618.68,16,12,5,7,93,No
+783202,Frederick Kamdar,36,Female,Rampur,Sikkim,199767,37,1,3,0,9,"Locks, Alarms, Cameras",4659.49,4,17,2,29,30,Yes
+869474,Dayamai Bala,38,Other,Sirsa,Uttar Pradesh,192284,42,2,1,2,5,"Doorbells, Sensors, Locks",3219.29,25,19,5,3,63,Yes
+217287,Irya Nair,52,Female,Jammu,Andhra Pradesh,141949,1,0,3,0,8,"Locks, Alarms",3718.97,47,1,4,15,34,Yes
+858494,Chaitanya Dhawan,34,Male,Bhusawal,Chhattisgarh,170776,100,1,3,2,7,Sensors,1733.33,0,2,4,48,38,No
+775051,Teerth Srivastava,27,Other,Avadi,Tamil Nadu,20380,74,1,2,0,1,"Locks, Cameras",851.2,34,1,3,36,88,No
+337388,Kai Borde,45,Male,Vijayanagaram,Maharashtra,195555,90,1,2,0,8,Cameras,2884.2,35,1,4,0,44,No
+490471,Arunima Munshi,72,Male,Durgapur,Punjab,179553,88,0,3,1,2,"Locks, Alarms",4101.03,17,2,4,16,9,No
+894651,Zansi Acharya,53,Male,Aligarh,Manipur,79966,62,3,0,0,1,"Doorbells, Alarms",3279.48,19,7,5,12,54,No
+730428,Turvi Banik,40,Other,Junagadh,Jharkhand,65735,13,2,0,2,10,Alarms,2981.59,31,20,2,5,72,Yes
+391213,Henry Rajagopalan,25,Male,Satara,Mizoram,108074,98,1,0,1,5,"Cameras, Locks",1204.76,43,3,0,6,58,No
+998268,Harshil Bala,49,Female,Baranagar,Assam,39145,91,4,2,0,7,"Sensors, Locks, Doorbells",4637.53,27,3,2,41,0,No
+983354,Aayush Grover,36,Female,Sambhal,Arunachal Pradesh,32533,33,3,2,1,3,Locks,2669.38,9,13,4,27,32,Yes
+514998,Maanav Mandal,33,Other,Gudivada,Madhya Pradesh,110124,33,5,0,1,1,Doorbells,3440.76,6,5,1,46,34,No
+254883,Isaiah Kapur,67,Female,Panvel,Meghalaya,95903,11,2,2,0,5,"Sensors, Locks, Doorbells",1486.87,4,16,4,29,64,Yes
+899489,Ryan Reddy,28,Male,Anantapuram,Jharkhand,35384,63,3,1,0,7,Cameras,3892.51,2,1,1,20,90,No
+706264,Girindra Choudhry,40,Other,Chandrapur,Haryana,128269,80,3,1,2,3,Alarms,4664.17,11,20,0,7,34,No
+355076,Azad Hari,24,Female,Ramgarh,Gujarat,139335,40,4,1,0,5,"Doorbells, Locks",4283.28,16,18,4,13,79,Yes
+249016,Anita Soman,50,Female,Eluru,Odisha,130213,101,4,1,1,4,"Doorbells, Sensors, Alarms",1858.93,7,13,1,20,99,No
+738853,Vasana Mitra,57,Female,Bulandshahr,Haryana,30664,80,0,2,1,7,"Sensors, Doorbells",2734.05,38,0,3,7,5,No
+324106,Kamala Toor,74,Male,Siliguri,Rajasthan,22804,94,4,0,1,5,Sensors,1764.8,21,4,0,19,92,No
+724741,Warhi Bakshi,50,Female,Ambala,Telangana,188235,100,2,3,2,4,"Alarms, Locks, Sensors",3445.05,8,9,3,30,7,No
+884970,Leena Narang,20,Male,Berhampur,Mizoram,87192,29,3,1,2,5,Alarms,3807.44,48,19,3,1,71,Yes
+570755,Daksh Roy,40,Other,Kottayam,Manipur,49356,101,3,2,1,2,"Cameras, Alarms, Sensors",2016.27,22,15,5,15,3,No
+922460,Nikita Chaudhary,32,Male,Motihari,Rajasthan,120642,28,3,2,1,4,"Alarms, Cameras, Locks",1548.27,15,6,5,36,72,Yes
+673352,Hiral Kant,42,Male,Bihar Sharif,Assam,153724,24,1,0,2,6,Locks,2785.86,35,5,4,19,34,Yes
+700817,Balveer Nagi,64,Female,Pondicherry,Chhattisgarh,122135,96,5,3,0,8,"Doorbells, Sensors, Alarms",2145.19,7,12,0,49,30,No
+680652,Amaira Ghose,70,Female,Jaipur,Odisha,172791,65,2,1,2,1,Sensors,1378.88,17,4,3,6,70,No
+409722,Harinakshi Nazareth,70,Other,Vijayawada,Jharkhand,109063,105,3,3,0,6,"Cameras, Sensors",4063.19,6,14,0,43,69,No
+166049,Charita Mutti,29,Other,Ambala,Karnataka,22087,109,4,2,1,1,Doorbells,2486.41,27,19,2,22,38,No
+132687,Aayush Kumer,24,Female,Ratlam,Tripura,147160,83,4,3,0,8,"Cameras, Sensors, Locks",2342.34,28,6,2,21,91,No
+472815,Dipta Bawa,68,Male,Karnal,Rajasthan,65777,20,5,0,2,4,"Doorbells, Cameras",4970.43,30,0,5,10,90,Yes
+681915,Kai Tella,40,Other,Nagpur,Sikkim,124619,47,5,0,0,10,"Locks, Alarms, Cameras",4082.64,22,9,5,9,47,Yes
+537939,Krisha Chandra,63,Female,Gandhidham,Chhattisgarh,185984,82,3,2,2,8,"Cameras, Locks, Doorbells",4487.68,14,15,2,9,71,No
+218818,Frederick Puri,75,Female,Bokaro,Assam,22751,26,2,1,2,4,Alarms,4077.98,43,8,2,16,16,Yes
+559910,Bahadurjit Yogi,25,Other,Satna,Tamil Nadu,107131,23,4,0,2,3,Cameras,4583.75,49,15,0,25,32,Yes
+602134,Chakradhar Chauhan,37,Other,Jorhat,Telangana,139731,92,0,1,1,1,"Sensors, Locks, Alarms",4050.25,26,1,2,16,14,No
+506054,Shivani Mishra,60,Other,Vijayawada,Bihar,186326,115,4,3,2,3,"Locks, Cameras",1910.68,4,1,3,21,52,No
+883249,Jonathan Sehgal,56,Other,Indore,Odisha,56052,24,5,1,0,8,"Doorbells, Sensors, Alarms",4995.65,27,14,1,28,34,Yes
+161871,Lopa Minhas,52,Other,Bardhaman,Haryana,118685,91,5,0,0,9,"Sensors, Alarms, Locks",3282.83,34,2,2,38,97,No
+841663,Harinakshi Dhingra,67,Female,Berhampur,Kerala,147493,90,0,0,1,3,"Sensors, Cameras",1438.08,18,13,0,32,24,No
+741573,Chanakya Choudhary,54,Female,Bettiah,Gujarat,130359,84,0,2,1,8,"Locks, Alarms, Doorbells",1085.03,18,15,2,9,70,No
+701252,Lajita Mohan,28,Other,Satara,Andhra Pradesh,62483,16,0,0,0,2,"Sensors, Cameras",2880.41,20,12,4,0,91,Yes
+691269,Bhavini Ramakrishnan,35,Other,Saharanpur,Jharkhand,103557,56,3,3,0,4,"Doorbells, Sensors, Cameras",580.42,24,14,0,27,68,No
+802435,Girik Mahal,36,Female,Raiganj,Karnataka,173781,52,2,0,1,2,"Locks, Cameras",2514.64,22,8,5,27,11,No
+159724,Praneel Raj,58,Male,Kalyan-Dombivli,Telangana,89694,62,4,2,1,6,Cameras,3976.18,5,7,5,40,55,No
+553867,Bachittar Shukla,72,Male,Bangalore,Tripura,185938,68,0,2,2,8,Doorbells,1870.03,50,14,2,27,62,No
+304095,Sai Naik,24,Male,Panchkula,Karnataka,142183,53,4,2,1,9,"Locks, Doorbells, Sensors",3922.06,10,8,4,43,60,No
+324267,Zaitra Mody,26,Male,Gudivada,Himachal Pradesh,171905,67,4,0,0,4,"Sensors, Alarms",1500.99,13,7,1,40,57,No
+883904,Balhaar Chaudhari,75,Other,Tiruvottiyur,Arunachal Pradesh,106125,72,1,3,0,6,"Doorbells, Sensors, Locks",1778.86,33,19,2,30,50,No
+647341,Yashica Bera,72,Other,Bhilwara,Assam,105257,104,4,2,0,9,"Sensors, Doorbells",3571.99,44,3,2,23,83,No
+689294,Ayushman Bhandari,68,Male,Lucknow,Odisha,189258,39,0,0,2,4,"Doorbells, Locks, Alarms",2952.58,32,16,2,21,8,Yes
+517995,Rudra Gade,57,Female,Farrukhabad,Madhya Pradesh,150341,61,3,3,1,3,"Doorbells, Sensors",2094.6,4,8,1,35,23,No
+122151,Omya Wali,62,Male,Sri Ganganagar,Madhya Pradesh,58274,45,1,1,2,9,Sensors,563.8,31,5,2,24,24,Yes
+714399,Anirudh Manda,60,Male,Malda,Arunachal Pradesh,148220,37,5,2,1,10,Locks,4318.06,22,12,4,40,51,Yes
+148017,Vedhika Mandal,18,Other,Mumbai,Kerala,123559,10,1,2,0,7,"Doorbells, Sensors",1803.11,29,13,0,12,91,Yes
+942160,Jagrati Rama,48,Male,Farrukhabad,Mizoram,80131,66,2,0,0,7,"Locks, Sensors",3198.83,44,9,4,46,90,No
+162196,Chanakya Jhaveri,35,Female,Mahbubnagar,Chhattisgarh,149920,42,0,3,1,5,Sensors,4007.76,27,11,2,15,27,Yes
+227551,Osha Dewan,59,Other,Dhanbad,Rajasthan,62631,120,0,3,2,3,Doorbells,4073.15,31,6,2,27,84,No
+861200,Neha Gandhi,28,Other,Jorhat,Arunachal Pradesh,161206,50,5,0,1,6,Alarms,4623.01,34,3,5,12,39,Yes
+250109,Yamini Chand,54,Female,Saharanpur,Telangana,168412,112,4,3,0,7,Sensors,1384.1,30,2,1,1,70,No
+860936,Geetika Venkatesh,67,Female,Haldia,Arunachal Pradesh,137369,115,1,1,2,8,"Locks, Doorbells, Cameras",3376.94,44,15,4,30,51,No
+361963,Ekalinga Salvi,44,Other,Dewas,Mizoram,163874,38,0,0,1,2,"Alarms, Locks, Sensors",2317.88,49,13,4,13,85,Yes
+540821,Samarth Saha,27,Other,Gaya,Manipur,163175,111,2,2,1,4,Cameras,4156.91,30,10,5,8,92,No
+433060,Bhanumati Nagar,62,Female,Tadepalligudem,Punjab,163724,11,4,1,0,6,Cameras,848.69,22,8,1,40,87,Yes
+973364,Deepa Dixit,23,Other,Arrah,Bihar,63512,17,5,3,0,4,"Locks, Sensors",1197.05,11,11,0,5,52,Yes
+592420,Vincent Mangat,44,Female,Ajmer,Nagaland,96512,105,1,0,1,8,"Doorbells, Sensors, Alarms",4296.03,19,18,0,35,95,No
+350830,Sanya Ravel,40,Other,Berhampur,Punjab,67280,21,3,2,0,6,"Cameras, Locks, Doorbells",2706.06,16,18,0,47,98,Yes
+747243,Prisha Randhawa,73,Male,Mysore,Jharkhand,149651,56,5,1,0,6,Cameras,1657.33,15,4,0,13,52,No
+861073,Riya Grewal,18,Female,Jamnagar,Rajasthan,104027,76,4,0,2,8,"Sensors, Locks",2013.74,45,7,2,16,30,No
+293671,Jairaj Bahri,38,Other,Noida,Arunachal Pradesh,188044,31,2,0,2,4,"Sensors, Cameras, Doorbells",1323.37,26,14,2,11,79,Yes
+429674,Vinaya Randhawa,41,Male,Secunderabad,Himachal Pradesh,131248,7,1,0,1,10,"Sensors, Cameras",1948.77,7,10,3,11,59,Yes
+335336,Ganga Raghavan,18,Other,Dehradun,Uttarakhand,104984,9,1,0,0,7,Doorbells,1794.13,28,16,1,10,46,Yes
+112049,Faris Chaudhary,75,Female,Nagercoil,Chhattisgarh,123093,105,5,0,0,8,Cameras,4317.46,26,13,4,43,81,No
+460268,Oviya Bhalla,59,Male,Gopalpur,Manipur,36243,93,1,2,1,1,Cameras,2594.06,50,4,3,21,85,No
+191585,Adweta Kala,47,Female,Srinagar,Rajasthan,22596,55,4,2,0,6,"Doorbells, Alarms, Cameras",2297.36,35,8,0,44,73,No
+700551,Orinder Bhandari,70,Male,Meerut,Uttar Pradesh,114401,79,0,1,0,2,"Alarms, Locks",2371.92,18,14,5,8,96,No
+898707,Tarak Kannan,49,Male,Junagadh,Assam,45740,69,2,3,2,3,Cameras,950.76,6,7,3,37,93,No
+613231,Vanya Bose,36,Male,Thrissur,Andhra Pradesh,115589,116,5,3,1,10,Sensors,4370.91,26,7,1,2,29,No
+276389,Hritik Balay,26,Other,Pondicherry,Assam,134372,65,1,2,0,7,Sensors,2219.95,1,0,4,8,45,No
+687635,Champak Bava,74,Female,Tenali,Arunachal Pradesh,180012,49,0,1,2,2,"Alarms, Sensors",1634.34,29,3,4,49,85,No
+195797,Widisha Dasgupta,30,Male,Jehanabad,Assam,168216,32,5,2,2,3,Sensors,4092.67,5,4,0,42,96,No
+468352,Ekani Sankaran,62,Female,Surat,Manipur,131592,9,3,1,2,8,"Locks, Sensors",4274.54,17,9,5,20,35,Yes
+818616,Zarna Prabhakar,34,Other,Sasaram,Uttar Pradesh,120122,53,3,3,0,2,"Alarms, Doorbells",3382.3,34,12,4,37,73,No
+383773,Isaac Das,66,Male,Visakhapatnam,Odisha,82415,26,2,2,2,1,Alarms,1382.95,10,11,2,40,30,Yes
+234430,Jairaj Dani,66,Male,Chandigarh,Madhya Pradesh,43369,89,0,1,0,6,"Doorbells, Cameras",2677.52,47,5,4,1,8,No
+290129,Advaith Ganguly,46,Other,Shivpuri,Rajasthan,88287,46,4,1,0,4,Alarms,4641.58,24,0,5,17,20,Yes
+418063,Gagan Prakash,23,Female,Coimbatore,Uttar Pradesh,128180,98,5,2,1,7,Doorbells,2003.94,17,4,3,33,6,No
+580821,Anya Gaba,26,Male,Bangalore,Madhya Pradesh,30569,2,2,0,1,6,"Cameras, Alarms",538.88,9,5,4,31,31,Yes
+264020,Vinaya Vaidya,27,Other,Korba,Punjab,60060,90,2,1,0,7,"Doorbells, Sensors, Locks",2617.75,30,18,2,38,59,No
+929614,Saksham Wason,30,Female,Bellary,Assam,158704,24,5,2,2,1,Alarms,834.65,47,8,0,32,19,Yes
+620778,Radha Patel,20,Other,Kollam,Gujarat,124020,57,2,3,0,7,Cameras,1117.52,6,14,0,28,71,No
+390205,Max Naidu,38,Female,Aizawl,Kerala,134903,49,1,2,0,4,"Doorbells, Sensors",4798.34,15,3,3,37,88,No
+899156,Qabil Kannan,40,Other,Howrah,Uttarakhand,159469,8,2,3,1,9,"Cameras, Sensors",4929.44,30,18,4,43,15,Yes
+576237,Upma Krishnamurthy,22,Female,Eluru,Sikkim,37727,81,0,3,1,4,"Locks, Sensors, Cameras",3390.16,25,9,5,31,95,No
+255554,Meghana Goswami,22,Female,Ludhiana,Karnataka,59680,103,4,0,2,4,Locks,2752.5,30,13,5,41,56,No
+104628,Omaja Dani,51,Male,Ballia,Maharashtra,32752,14,0,3,2,1,"Locks, Doorbells, Sensors",2364.82,27,15,2,15,17,Yes
+184909,Aahana More,54,Male,Ambattur,Sikkim,187557,33,1,1,0,2,"Alarms, Locks, Doorbells",1743.22,41,5,3,43,49,Yes
+167245,Lipika Nazareth,34,Other,Pune,Arunachal Pradesh,170467,16,3,2,0,5,Locks,4399.09,32,0,1,16,17,Yes
+151332,Yagnesh Chanda,22,Male,Bhilai,Odisha,53976,102,2,2,0,4,Locks,3739.41,2,12,0,18,42,No
+213422,Bimala Sagar,73,Other,Bokaro,Karnataka,119654,85,0,2,1,7,Sensors,2611.53,40,6,2,4,64,No
+285913,Wahab Bava,31,Male,Bongaigaon,Madhya Pradesh,38069,2,1,1,2,8,"Alarms, Doorbells, Sensors",1359.96,2,20,0,3,12,Yes
+279913,Aachal Batra,60,Female,Patna,West Bengal,118736,89,0,2,2,6,Doorbells,4322.72,2,15,2,35,90,No
+376628,Kashish Dutta,60,Female,Bhavnagar,Punjab,35016,86,4,3,0,7,"Alarms, Locks",2953.71,30,4,0,32,90,No
+464435,Qasim Mishra,20,Male,Agartala,Odisha,190529,83,0,3,0,10,Sensors,997.47,19,18,4,4,77,No
+220386,Chameli Chakrabarti,25,Other,Bhusawal,Uttarakhand,121360,41,1,3,2,2,Locks,1009.96,15,5,5,35,46,Yes
+887146,Eta Doshi,44,Other,Bhind,Kerala,188491,44,4,2,2,7,"Locks, Alarms, Cameras",734.33,30,20,1,27,53,Yes
+198129,Yashvi Pau,67,Other,Begusarai,Punjab,185141,108,1,2,1,4,Locks,4813.76,48,6,5,41,65,No
+767996,Jeremiah Natarajan,23,Female,Bongaigaon,Manipur,126700,76,1,1,2,7,"Locks, Alarms",3378.55,46,8,5,3,95,No
+605057,Jhalak Dixit,42,Male,Kolhapur,Andhra Pradesh,21712,34,3,1,2,2,"Doorbells, Alarms",3554.34,6,12,4,4,66,Yes
+803205,Anjali Biswas,32,Other,Agartala,Jharkhand,29738,34,3,2,1,1,Alarms,1140.5,21,4,1,8,66,Yes
+330199,Damyanti Sharaf,38,Female,Agartala,Manipur,97387,29,1,2,2,6,"Doorbells, Alarms, Cameras",2018.61,28,6,2,17,16,Yes
+655261,Gaurang Bhattacharyya,70,Other,Pudukkottai,Uttarakhand,105033,43,1,1,0,8,"Cameras, Sensors, Doorbells",3989.34,48,1,3,11,100,Yes
+887974,Harini Balan,75,Other,Bijapur,Meghalaya,79558,7,3,1,1,10,Locks,2141.01,0,15,2,25,47,Yes
+809691,Adweta Bumb,43,Female,Ghaziabad,Uttarakhand,76607,119,3,3,1,5,"Cameras, Doorbells",1233.15,16,12,1,45,80,No
+379861,Champak Doshi,33,Other,Lucknow,Himachal Pradesh,166136,104,0,0,1,7,"Locks, Doorbells",1839.47,47,17,4,10,86,No
+482002,Anvi Shere,50,Male,Jamnagar,Mizoram,20983,84,4,1,2,3,"Cameras, Doorbells, Locks",3819.89,33,1,0,2,11,No
+682817,Zansi Karpe,22,Female,Deoghar,Assam,32531,89,3,3,2,3,"Sensors, Alarms, Doorbells",4644.56,1,14,3,4,70,No
+468331,Vihaan Peri,22,Male,Raipur,Maharashtra,167092,119,2,1,2,9,"Cameras, Alarms",4969.62,0,0,3,40,2,No
+761882,Rachana Uppal,26,Other,Bhubaneswar,Telangana,34442,39,3,0,0,9,"Cameras, Sensors, Doorbells",1128.89,24,14,2,45,95,No
+487642,Aarini Viswanathan,55,Female,Shimla,Mizoram,100189,100,0,0,1,6,"Doorbells, Locks",2915.65,18,6,4,9,3,No
+779953,Laksh Thakur,53,Male,Ozhukarai,Telangana,81527,85,4,2,2,5,Doorbells,1706.8,2,10,0,3,57,No
+439613,Jairaj Kapadia,20,Female,Rohtak,Tamil Nadu,51458,83,1,1,0,1,Cameras,1119.24,42,10,4,21,70,No
+483454,Yashasvi Talwar,71,Female,Baranagar,Uttar Pradesh,165589,2,2,2,2,9,Sensors,2358.67,9,2,4,35,10,Yes
+772469,Noah Narayanan,21,Female,Orai,Gujarat,64972,55,4,2,0,3,"Sensors, Alarms, Cameras",534.86,47,14,0,33,70,No
+483978,Balhaar Zacharia,18,Other,Phagwara,Uttarakhand,183218,90,4,0,2,10,"Sensors, Cameras",3741.89,37,6,4,47,14,No
+202920,Darpan Cheema,27,Other,Srikakulam,Haryana,156808,23,5,0,0,6,"Locks, Cameras",3102.92,34,10,3,13,31,Yes
+663308,Kala Cherian,26,Female,Anantapuram,Meghalaya,106372,105,5,1,2,3,"Alarms, Locks",1934.36,45,14,2,7,22,No
+764720,Nakul Madan,66,Female,Tirupati,Nagaland,94791,119,3,0,1,1,"Cameras, Doorbells, Sensors",3515.83,32,0,1,13,76,No
+187256,Samuel Ganguly,49,Female,Coimbatore,Nagaland,132269,116,3,3,2,1,"Locks, Cameras, Sensors",2411.44,7,1,2,17,69,No
+587822,Vrinda Gade,26,Female,Khammam,Uttarakhand,139243,30,5,3,0,6,Locks,3653.33,50,5,5,49,5,Yes
+476251,Hardik Bajaj,27,Female,Nashik,Odisha,165234,15,0,0,1,4,"Cameras, Doorbells",2122.63,47,18,1,19,47,Yes
+507715,Azaan Lala,20,Female,Thrissur,West Bengal,199951,90,2,3,0,5,"Sensors, Locks",884.76,20,3,1,32,5,No
+845837,Mugdha Rao,18,Male,Hyderabad,Himachal Pradesh,162923,33,4,1,1,1,"Alarms, Sensors",4915.38,26,12,4,46,85,Yes
+170643,Sarthak Verma,28,Male,Mumbai,Gujarat,179349,25,4,3,2,4,"Locks, Sensors, Cameras",830.48,16,7,5,40,92,Yes
+596630,Chandresh Trivedi,67,Other,Bareilly,Chhattisgarh,71550,89,4,2,2,8,"Doorbells, Cameras",2723.71,14,13,1,25,84,No
+698025,Tristan Golla,72,Male,Deoghar,Mizoram,86355,9,0,3,2,5,Doorbells,2043.48,37,13,0,0,58,Yes
+289562,Lohit Dhingra,67,Other,Bangalore,Jharkhand,84007,8,2,1,2,4,"Cameras, Alarms",3684.49,15,2,0,2,80,Yes
+996878,Upadhriti Bava,55,Other,Patna,Kerala,93767,60,2,1,0,7,"Locks, Cameras",3453,2,13,0,43,43,No
+526485,Hiral Agarwal,21,Other,Ongole,Maharashtra,185229,83,1,0,0,8,"Cameras, Sensors",3642.01,14,11,3,14,42,No
+472732,Charvi Loke,41,Male,Patiala,Chhattisgarh,124781,15,0,1,1,8,Alarms,786.32,30,13,0,28,5,Yes
+300885,Logan Divan,26,Other,Bhusawal,West Bengal,31259,61,4,3,0,4,"Cameras, Sensors, Doorbells",600.02,33,4,0,4,58,Yes
+277411,Waida Taneja,32,Other,Ghaziabad,Chhattisgarh,162489,111,4,1,1,6,Alarms,3010.63,9,0,4,35,22,No
+973857,Manan Goswami,31,Female,Ulhasnagar,Jharkhand,166470,106,5,3,2,3,Alarms,1014.17,44,7,1,48,68,No
+668643,Fiyaz Madan,38,Male,Howrah,Madhya Pradesh,159047,4,3,3,0,5,"Cameras, Alarms",4309.21,48,3,3,6,62,Yes
+425880,Ojasvi Thaker,62,Other,Akola,Uttar Pradesh,190090,119,1,1,1,6,Alarms,1676.18,20,11,0,29,9,No
+594736,Ekani Halder,18,Male,Farrukhabad,Mizoram,76537,75,5,2,1,4,Doorbells,1101.66,48,12,3,30,37,No
+205895,Sai Badal,35,Other,Dehri,Sikkim,107694,44,2,0,1,4,"Locks, Doorbells",2331.95,48,10,0,30,64,Yes
+246711,Chatura Deol,68,Male,Nellore,Andhra Pradesh,179930,26,2,1,2,10,"Cameras, Doorbells, Locks",2845.91,14,2,2,16,91,Yes
+379363,Harini Wadhwa,35,Female,Hazaribagh,West Bengal,47258,40,4,0,1,7,"Sensors, Alarms, Locks",3339.48,2,10,3,3,14,Yes
+823692,Ganga Bajaj,34,Other,Allahabad,Goa,189254,49,5,1,2,2,Alarms,2992.66,41,1,2,3,52,Yes
+505500,Vaishnavi Deshpande,25,Female,Nagercoil,Andhra Pradesh,84002,6,0,1,1,1,Locks,1533.08,19,10,4,28,4,Yes
+414911,Chanakya Patil,19,Female,Amaravati,Andhra Pradesh,48745,86,2,2,2,9,"Doorbells, Cameras",1996.41,36,19,1,9,55,No
+855461,Hiral Choudhry,49,Male,Kharagpur,Andhra Pradesh,94872,46,2,1,1,5,Locks,4989.14,6,8,3,25,8,No
+877349,Neel Balay,40,Other,Ludhiana,Sikkim,85727,34,0,1,1,1,Sensors,4873.36,11,20,3,35,89,Yes
+866859,Qabil Chahal,19,Female,Karawal Nagar,Uttar Pradesh,52014,12,5,0,0,1,"Locks, Cameras, Doorbells",4075.03,16,17,0,45,63,Yes
+247824,Megha Mani,45,Female,Thrissur,Karnataka,48956,98,4,3,2,9,"Doorbells, Locks, Cameras",801.7,47,13,3,16,72,No
+643316,Jagdish Edwin,71,Other,Suryapet,Andhra Pradesh,78188,84,0,1,0,9,"Sensors, Cameras",4210.38,18,17,2,12,35,No
+833388,Chandran Kohli,24,Other,Tiruppur,Uttarakhand,53080,34,2,1,1,8,Sensors,2852.4,20,15,2,50,9,No
+254052,Nikita Sarma,49,Female,Sangli-Miraj & Kupwad,Arunachal Pradesh,146459,12,2,1,0,3,Alarms,4930,15,8,3,7,38,Yes
+402967,Ekbal Krishna,71,Other,Ambarnath,Chhattisgarh,151379,33,0,0,2,9,"Locks, Alarms",1400.9,6,2,1,47,10,No
+176061,Advaith Pant,26,Male,Avadi,Gujarat,82417,63,5,3,0,1,"Doorbells, Locks",3985.88,15,14,5,27,3,No
+310405,Raksha Pai,51,Male,Jamshedpur,Kerala,64237,56,0,3,1,2,Cameras,1338.19,49,6,4,21,38,Yes
+457054,Lakshit Ganesh,41,Female,Morbi,Tamil Nadu,192421,104,5,1,1,10,"Cameras, Doorbells, Locks",4283.99,16,7,2,6,22,No
+131270,Nimrat Ravel,47,Male,Pallavaram,Maharashtra,154414,60,2,2,2,2,"Doorbells, Sensors",1053.76,0,3,2,20,78,No
+159548,Owen Sathe,74,Female,Ranchi,Punjab,135059,29,2,1,1,7,"Sensors, Locks, Cameras",4252.54,11,11,5,37,94,Yes
+888314,Chakrika Rao,40,Male,Thoothukudi,Assam,189161,97,0,2,2,9,Sensors,1908.26,1,13,1,48,21,No
+677718,Jason Bala,67,Female,Ajmer,Rajasthan,145550,61,3,2,1,1,"Cameras, Doorbells",3108.24,30,3,1,27,42,No
+883530,Bimala Sharaf,61,Male,Katihar,Rajasthan,188852,44,4,3,1,6,"Cameras, Sensors, Doorbells",2588.86,3,10,4,28,6,No
+506289,Jalsa Tara,66,Female,Naihati,Arunachal Pradesh,76017,5,2,1,2,2,"Locks, Doorbells",4935.58,22,17,0,39,50,Yes
+641055,Chandani Mannan,20,Other,Durg,Jharkhand,123073,96,1,3,2,5,"Cameras, Locks",4264.63,13,19,4,28,66,No
+380331,Tristan Biswas,40,Male,Visakhapatnam,Odisha,107663,25,4,0,0,5,"Alarms, Cameras, Locks",1551.88,10,8,1,5,33,Yes
+812349,Manthan Chaudhuri,71,Male,Karawal Nagar,Madhya Pradesh,75839,44,0,1,2,10,"Cameras, Alarms, Locks",4878.03,12,14,1,43,99,No
+862652,Hemal Chana,41,Female,Warangal,Rajasthan,53827,92,4,1,0,3,"Sensors, Cameras",3280.54,4,3,3,4,96,No
+546071,Krish Garde,63,Female,Anand,Maharashtra,71393,32,2,3,1,5,Locks,3983.15,6,11,1,37,38,No
+857332,Mohammed Varty,66,Female,Dibrugarh,Tripura,67548,81,3,2,0,9,"Sensors, Locks",2807.71,45,1,2,30,13,No
+971539,Anthony Sabharwal,55,Male,Ahmednagar,Telangana,166780,18,3,1,2,9,"Alarms, Locks",3741.53,26,16,3,16,21,Yes
+573394,Max Dar,42,Male,Karnal,Arunachal Pradesh,135994,110,3,1,0,7,"Alarms, Doorbells",4214.72,6,4,1,18,88,No
+250384,Vyanjana Doctor,19,Female,Bhimavaram,Uttar Pradesh,27989,52,1,3,2,2,"Locks, Cameras, Alarms",861.63,50,12,4,28,100,Yes
+256465,Krisha Johal,24,Female,Sambalpur,West Bengal,64393,53,2,1,0,1,"Alarms, Doorbells, Sensors",3997.26,27,10,2,24,22,No
+811468,Laksh Kumer,51,Other,Loni,Chhattisgarh,47257,18,5,1,2,10,Doorbells,1517.95,8,5,0,46,14,Yes
+279746,Chatura Bahri,53,Other,Mau,Tripura,98786,75,5,3,0,9,"Locks, Alarms",2507.27,36,19,2,5,32,No
+114778,Anthony Hora,36,Female,Ahmedabad,Goa,47407,37,2,1,1,1,"Alarms, Doorbells, Sensors",915.47,8,19,3,13,13,Yes
+132160,Orinder Sharma,73,Female,Guwahati,West Bengal,186969,86,4,1,1,7,"Doorbells, Sensors",4933.35,24,18,0,1,45,No
+690924,Pahal Jaggi,67,Female,Tiruchirappalli,Maharashtra,77887,50,0,2,1,5,Doorbells,698.81,20,20,2,32,40,No
+120738,Tanish Tank,62,Male,Anantapuram,Maharashtra,100120,54,1,0,0,8,"Alarms, Cameras, Doorbells",827.07,1,12,3,31,92,No
+154452,Jhalak Banik,48,Female,Bidhannagar,Kerala,27790,51,0,0,0,8,"Locks, Cameras",3521.4,35,9,0,16,93,Yes
+841612,Rohan Roy,50,Male,Nashik,Uttar Pradesh,26464,64,2,1,2,4,"Sensors, Locks",1674.32,20,4,2,4,55,No
+718447,Pallavi Pau,43,Male,Sirsa,Karnataka,88242,118,5,1,1,8,"Sensors, Cameras",3727.71,47,0,3,49,91,No
+345362,Jagrati Desai,26,Other,Thane,Madhya Pradesh,133153,15,1,0,0,1,Sensors,3386.73,34,5,5,37,11,Yes
+990761,Faris Ravel,48,Other,Proddatur,Madhya Pradesh,168267,65,1,1,0,6,Locks,4515.27,16,17,5,33,4,No
+833754,Owen Subramaniam,55,Male,Patna,Kerala,95864,84,1,1,2,1,"Sensors, Doorbells, Locks",2263.66,48,1,1,15,88,No
+200194,Ekanta Handa,69,Male,Motihari,Nagaland,175671,6,2,3,1,6,"Doorbells, Sensors",2601.95,24,9,3,23,37,Yes
+939354,David Prabhakar,72,Male,Ahmedabad,Tamil Nadu,52255,110,1,2,1,6,"Cameras, Locks",1582.51,46,6,1,38,55,No
+758544,Lajita Shah,38,Female,Jalandhar,Assam,82866,6,1,0,1,4,Doorbells,4378.3,48,10,4,31,99,Yes
+731310,Ekiya Sagar,38,Male,Varanasi,Punjab,79263,79,4,3,0,6,Alarms,1888.75,49,18,1,33,67,No
+883757,Lakshmi Deep,23,Other,Jalgaon,Assam,38227,38,1,3,1,7,Alarms,1782.88,18,11,2,39,47,No
+865424,Damyanti Bhalla,68,Male,Panvel,Mizoram,83552,32,0,3,0,7,Sensors,1443.83,42,11,0,30,10,Yes
+363267,Nandini Bal,26,Male,Korba,Gujarat,96318,102,4,3,2,2,"Cameras, Sensors, Alarms",637.69,17,17,4,36,86,No
+192243,Atharv Pai,28,Male,Proddatur,Himachal Pradesh,74200,76,2,1,2,6,"Locks, Cameras, Sensors",4229.71,44,14,5,49,79,No
+281731,Arjun Bhasin,40,Male,Warangal,Manipur,169728,32,2,2,0,4,Cameras,1653.38,46,1,2,4,37,Yes
+936358,Warjas Din,24,Other,Tumkur,Arunachal Pradesh,54194,117,5,0,1,1,"Doorbells, Cameras",1979.08,37,11,2,7,64,No
+578568,Omya Sinha,44,Male,Dharmavaram,Mizoram,132650,65,1,0,2,1,"Sensors, Alarms, Locks",3356.86,11,4,5,37,66,No
+137373,Benjamin Dube,41,Other,Kadapa,Haryana,158034,87,5,2,0,1,"Alarms, Sensors, Doorbells",1376.02,36,18,4,7,29,No
+192127,Onveer Swamy,75,Other,Hindupur,Haryana,44096,82,5,0,2,4,"Doorbells, Locks, Sensors",4852.92,50,9,1,48,98,No
+625112,Januja Arya,31,Male,Kamarhati,Himachal Pradesh,52205,59,0,3,2,9,Locks,2244.9,17,10,3,33,31,No
+800830,Hiral Kalla,45,Male,Bilaspur,Madhya Pradesh,114995,14,2,0,0,10,"Locks, Doorbells, Cameras",2726.18,18,9,2,45,5,Yes
+701604,Gaurika Bajaj,47,Female,Anand,Chhattisgarh,119099,72,2,0,1,7,"Alarms, Sensors",4655.59,48,14,4,9,23,No
+669699,Faqid Radhakrishnan,21,Other,Solapur,Goa,198784,13,2,1,2,4,Doorbells,4418.64,49,18,4,15,55,Yes
+619377,Chakradhar Mallick,56,Male,Mathura,Haryana,138153,23,1,2,2,1,"Doorbells, Sensors",3788.04,22,19,5,35,52,Yes
+122933,Tanmayi Korpal,29,Other,Bareilly,Assam,151369,71,4,1,2,10,Cameras,1041.65,1,11,0,45,68,No
+532434,Megha Prashad,50,Other,Bhimavaram,Maharashtra,140908,14,5,3,2,7,Locks,600.51,41,4,0,13,36,Yes
+772554,Kai Sheth,69,Other,Pimpri-Chinchwad,Goa,137514,63,4,1,0,1,"Alarms, Cameras",3940.87,45,19,2,26,12,No
+647584,Vyanjana Varghese,22,Female,Singrauli,Himachal Pradesh,136070,22,2,1,2,1,"Sensors, Doorbells, Alarms",4080.98,47,10,2,9,12,Yes
+667879,Darsh Bakshi,57,Female,South Dumdum,Manipur,174318,55,5,0,0,8,Sensors,4193.69,49,2,0,44,65,No
+504145,Harini Pandit,41,Other,Kulti,Himachal Pradesh,195004,106,5,2,1,9,"Alarms, Sensors, Locks",2613.59,8,13,4,32,19,No
+367706,Brijesh Bedi,26,Male,Sasaram,Tamil Nadu,75718,66,5,1,0,9,"Cameras, Alarms, Doorbells",2065.1,18,0,0,34,72,No
+713585,Pranit Johal,29,Male,Morbi,Maharashtra,65359,90,4,2,2,6,Locks,2133.23,38,15,0,22,38,No
+411557,Anthony Lalla,52,Female,Ratlam,Mizoram,197435,110,3,1,0,6,"Cameras, Locks",544.04,21,18,4,22,66,No
+659087,Ojasvi De,64,Female,Thane,Madhya Pradesh,163322,20,3,0,1,9,"Alarms, Locks",4003.52,5,6,5,13,66,Yes
+829080,Zarna Devi,46,Female,Madanapalle,Goa,66459,76,1,2,1,9,"Doorbells, Alarms",4213.87,49,9,4,42,82,No
+202671,Krish Sur,72,Male,Bellary,Manipur,152287,108,0,1,1,3,Doorbells,2560.72,29,20,4,48,67,No
+753147,Anamika Mukherjee,49,Male,Alappuzha,Karnataka,110286,17,0,0,0,6,Locks,4403.64,26,6,2,31,38,Yes
+736559,Janya Sibal,63,Other,Hajipur,Bihar,114244,98,2,1,2,7,Doorbells,4405.26,14,6,3,30,60,No
+273851,Daniel Date,73,Other,Vijayanagaram,Jharkhand,104514,55,0,3,2,5,"Alarms, Cameras, Sensors",1495.39,1,19,2,19,15,No
+443934,Qasim Vyas,19,Other,Bhubaneswar,Telangana,185881,23,1,3,1,2,Alarms,4413.43,0,2,4,29,32,Yes
+438969,Keya Bora,60,Other,Sultan Pur Majra,Sikkim,122884,36,3,0,1,9,Locks,505.22,32,10,2,48,70,No
+646148,Anjali Cherian,24,Male,Bhubaneswar,Nagaland,55321,11,0,2,0,1,"Locks, Cameras, Alarms",2357.94,13,15,1,33,61,Yes
+234073,Edhitha Hans,59,Female,Danapur,Mizoram,166507,102,3,1,0,8,"Doorbells, Cameras, Sensors",3858.13,48,9,0,25,86,No
+947826,Kevin Halder,73,Female,Nagercoil,Uttarakhand,159466,60,2,2,0,9,Cameras,3300.44,14,14,5,41,18,No
+798851,Vedika Swaminathan,18,Female,Satara,Uttarakhand,144468,81,3,0,0,4,"Sensors, Cameras, Doorbells",4270.75,20,9,5,18,52,No
+245826,Liam Atwal,72,Other,Panchkula,Assam,174786,27,1,1,1,1,Sensors,2503.89,50,19,2,17,75,Yes
+645760,Panini Madan,28,Female,Mehsana,Gujarat,122795,70,2,0,0,6,Cameras,1489.46,46,0,1,40,39,No
+587373,Lavanya Badal,23,Other,Loni,Telangana,162647,3,4,0,2,7,Locks,4089.93,15,14,3,42,17,Yes
+664119,Anthony Malhotra,34,Other,Danapur,Uttarakhand,171746,108,0,2,2,6,"Cameras, Alarms, Doorbells",4883.63,26,0,3,11,1,No
+845491,Ekiya Malhotra,70,Female,Agartala,Uttarakhand,118173,20,1,1,1,8,"Locks, Sensors",3703.13,3,13,5,9,59,Yes
+601443,Chandran Venkataraman,21,Male,Amritsar,Mizoram,78089,111,5,0,1,5,"Locks, Alarms, Sensors",2269.52,28,13,5,26,59,No
+528123,Yachana Merchant,68,Female,Guntakal,West Bengal,163918,81,1,1,1,9,Doorbells,1343.56,6,9,3,49,4,No
+457050,Krishna Prabhakar,57,Male,Gulbarga,Gujarat,114607,20,0,2,0,8,"Doorbells, Cameras",2459.31,39,6,4,28,67,Yes
+184298,Ekalinga Peri,46,Male,Bhalswa Jahangir Pur,Odisha,69372,92,2,3,1,5,"Alarms, Doorbells, Locks",3481.24,6,5,0,46,63,No
+109138,Vasudha Gade,66,Male,Gudivada,Arunachal Pradesh,123491,86,0,2,1,4,"Cameras, Locks",2118.15,25,4,3,23,41,No
+740420,Guneet Korpal,75,Other,Kalyan-Dombivli,Karnataka,48519,41,5,2,0,10,Sensors,762.65,10,10,2,26,9,Yes
+392922,Logan Talwar,31,Female,Kulti,Sikkim,156931,67,2,3,0,2,"Cameras, Alarms",1521.1,14,18,2,42,98,No
+937333,Pahal Chatterjee,31,Male,Jamnagar,Mizoram,139237,55,1,1,0,5,Cameras,1359.3,14,4,1,14,61,No
+216090,Yachana Sahota,47,Male,Tirupati,Telangana,75000,115,2,2,0,6,Locks,3573.09,10,17,5,0,81,No
+110547,Tanveer Mody,61,Male,Nizamabad,Himachal Pradesh,99161,58,2,3,0,7,"Doorbells, Sensors",1578.87,7,12,0,19,56,No
+833943,Ishita Vig,71,Male,Tumkur,Kerala,157571,41,5,0,0,3,"Locks, Cameras, Alarms",1273.94,4,2,3,29,25,No
+852444,Yochana Brahmbhatt,26,Male,Danapur,Tripura,118361,6,5,0,2,4,Cameras,1990.28,45,19,5,6,30,Yes
+937621,Chatura Sarkar,34,Female,Etawah,Maharashtra,159678,84,0,1,0,5,Alarms,963.6,7,16,0,37,76,No
+402502,Ekta Mahajan,40,Male,Siliguri,Madhya Pradesh,68209,55,0,3,0,1,"Doorbells, Sensors",2698.62,48,19,4,17,0,Yes
+805401,Yashvi Joshi,69,Male,Loni,Arunachal Pradesh,64290,89,3,2,1,1,Alarms,4631.65,17,7,2,44,5,No
+178571,Andrew Khurana,21,Male,Dhanbad,Jharkhand,57871,102,3,3,1,3,"Cameras, Alarms, Doorbells",3298.53,41,11,1,13,26,No
+940330,Tanish Sharaf,59,Female,Faridabad,Bihar,113227,80,0,1,0,2,"Cameras, Locks, Sensors",2358.06,47,18,4,43,30,No
+241259,Manya Sarkar,69,Female,Nanded,Uttarakhand,25494,81,1,0,0,2,"Cameras, Locks, Alarms",4511.38,16,20,3,6,14,No
+346905,Mugdha Vyas,36,Male,Surendranagar Dudhrej,West Bengal,198684,105,5,0,2,6,"Locks, Cameras, Doorbells",4587.18,13,10,0,4,98,No
+388572,Zashil Bali,39,Male,Bokaro,Maharashtra,105733,62,2,3,2,7,Sensors,3481.15,12,15,0,2,12,No
+720657,Ekta Konda,69,Female,Raichur,Himachal Pradesh,60364,113,0,0,1,10,"Doorbells, Cameras",3430.94,17,2,4,5,57,No
+827439,Devika Upadhyay,53,Female,Chinsurah,Tamil Nadu,111136,29,0,1,0,3,"Doorbells, Sensors, Cameras",4569.3,13,10,2,25,40,Yes
+346906,Radhika Ramachandran,52,Female,Sagar,Assam,137204,64,3,3,2,5,"Sensors, Alarms",4194.35,20,13,2,9,79,No
+218916,Jatin Gour,20,Female,Udaipur,Assam,33198,29,3,3,0,9,"Locks, Cameras",4891.79,33,1,5,30,72,Yes
+411642,Adya Kapur,55,Female,Pallavaram,Bihar,70530,76,4,3,2,4,"Doorbells, Locks, Sensors",3155.84,10,19,4,18,48,No
+938203,Dev Reddy,57,Female,Guwahati,Tripura,110846,28,2,0,0,9,"Locks, Sensors",1767.4,30,16,4,24,88,Yes
+274429,Darsh Agate,75,Male,Haldia,Telangana,26040,83,1,0,0,4,Doorbells,552.42,17,3,3,9,30,No
+382044,Ojas Mukhopadhyay,31,Female,Jaipur,Odisha,153172,64,5,2,1,1,Locks,1846.55,42,8,0,37,73,No
+252106,Saksham Chandra,65,Female,Tinsukia,Chhattisgarh,196020,47,5,0,1,3,Sensors,931.55,31,16,5,13,83,Yes
+424724,Suhani Raghavan,28,Female,Kozhikode,Chhattisgarh,126997,37,5,2,1,4,Locks,3469.55,18,8,3,39,77,Yes
+776325,Yashasvi Setty,42,Male,Haldia,Bihar,93725,73,3,2,2,1,"Sensors, Locks",3871.79,33,7,5,41,18,No
+419537,Ryan Mandal,65,Female,Bhind,Goa,78523,42,4,1,0,3,Alarms,1666.21,15,5,3,43,41,No
+453645,Dominic Srivastava,29,Male,Tezpur,Uttarakhand,118409,67,1,1,2,7,"Locks, Sensors",1396.4,17,7,5,2,3,No
+353379,Wyatt Patla,43,Male,Kollam,Uttarakhand,38038,102,3,1,1,6,"Doorbells, Sensors",2482.07,31,12,5,0,59,No
+643999,Zashil Grewal,33,Female,Alwar,Nagaland,145356,20,2,0,1,7,Sensors,3625.16,34,16,4,42,77,Yes
+375107,Ayaan Sem,44,Male,Saharanpur,Maharashtra,197219,27,5,0,2,2,"Cameras, Doorbells",3513.44,30,19,4,30,98,Yes
+479908,Niharika Choudhury,70,Other,Dhule,Andhra Pradesh,141663,31,1,1,1,7,Doorbells,1109.76,50,6,5,33,12,Yes
+666173,Alexander Sidhu,22,Other,Ozhukarai,Goa,81231,27,4,0,0,4,"Sensors, Locks",1912.29,46,18,2,22,83,Yes
+951741,Harrison Chana,27,Other,Bikaner,Karnataka,73030,105,3,3,0,3,"Cameras, Alarms, Sensors",1494.76,30,13,0,7,3,No
+492206,Aahana Narang,18,Other,Bhatpara,Telangana,79773,11,2,2,2,6,"Locks, Sensors",2156.2,10,1,0,43,3,Yes
+298393,Ekanta Ramesh,26,Female,Kurnool,Andhra Pradesh,90823,28,5,1,0,2,Doorbells,3253.81,40,12,4,20,56,Yes
+930500,Praneel Sibal,49,Female,Davanagere,Arunachal Pradesh,107410,11,0,1,0,5,"Alarms, Doorbells",2246.45,8,3,3,32,19,Yes
+574089,Janaki Mand,57,Male,Tiruchirappalli,Meghalaya,27149,84,1,1,0,8,"Locks, Doorbells",4242.27,16,15,5,20,73,No
+305160,Pranit Bhattacharyya,42,Female,Jammu,Andhra Pradesh,134102,71,0,3,2,2,Cameras,3419.35,36,11,3,8,18,No
+884614,Harinakshi Bahri,33,Female,Imphal,Chhattisgarh,40767,9,4,2,1,5,Alarms,3783.5,37,6,3,8,83,Yes
+682503,Ati Soni,29,Male,Tenali,Arunachal Pradesh,122895,57,3,1,0,8,Doorbells,803.92,13,16,0,23,49,No
+774941,Manan Rau,61,Female,Korba,Meghalaya,171132,36,0,3,1,7,"Doorbells, Alarms",2758.04,23,15,1,41,80,No
+354992,Nimrat Joshi,27,Other,Solapur,Maharashtra,126612,70,4,2,0,6,"Alarms, Locks, Doorbells",3916.39,8,0,0,5,96,No
+450136,Upadhriti Walia,67,Other,Rohtak,Rajasthan,48016,5,4,1,0,5,"Locks, Cameras",3116.02,26,19,5,9,27,Yes
+658946,Ishaan Pingle,20,Other,Siliguri,Uttarakhand,195240,71,1,1,2,7,Alarms,1167.11,46,16,2,47,6,No
+434671,Ryan Chawla,19,Other,Bhopal,Assam,168827,87,3,0,0,1,"Alarms, Doorbells",2294.45,33,1,2,24,68,No
+403177,Falak Singh,73,Male,Munger,Madhya Pradesh,104628,22,4,1,0,1,"Alarms, Doorbells, Sensors",995.94,31,2,1,20,28,Yes
+613258,Xavier Kadakia,56,Male,Bareilly,Haryana,65455,39,0,0,1,7,"Sensors, Cameras, Locks",1716.78,34,5,3,43,98,Yes
+650433,Upasna Gokhale,19,Male,Thane,Chhattisgarh,102960,20,5,0,2,10,"Doorbells, Sensors, Locks",1049.08,5,19,3,29,73,Yes
+553025,David Mitra,37,Female,Jaunpur,West Bengal,127442,34,4,3,0,1,"Sensors, Alarms",1558.34,13,8,4,7,60,Yes
+559236,Orinder Bassi,45,Male,Thrissur,Maharashtra,25596,97,0,2,2,1,"Doorbells, Cameras",2360.28,21,0,1,42,51,No
+799511,Orinder Borra,74,Other,Panchkula,Uttarakhand,127144,33,4,1,2,1,Cameras,2984.69,37,16,3,38,100,Yes
+974713,Chanakya Nayak,39,Male,Surendranagar Dudhrej,Odisha,110718,38,1,1,2,4,"Locks, Sensors, Doorbells",2956.82,20,5,0,40,19,No
+450702,Advik Chakrabarti,26,Male,Faridabad,West Bengal,31500,32,0,3,2,2,"Locks, Alarms, Doorbells",2448.38,41,19,1,11,94,Yes
+716258,Tamanna Sankaran,67,Female,Ambattur,Madhya Pradesh,55077,75,3,2,0,5,"Sensors, Doorbells",2313.4,43,8,3,3,84,No
+306139,Yutika Rajagopalan,73,Other,New Delhi,Punjab,140823,15,0,0,2,5,Cameras,2441.24,22,8,5,2,100,Yes
+494883,Pooja Peri,42,Other,Tezpur,Tamil Nadu,37559,92,2,0,0,1,Locks,3555.06,7,19,5,46,2,No
+954136,Amaira Hayre,19,Male,Phagwara,Nagaland,189604,23,5,1,1,4,"Locks, Sensors, Cameras",3473.08,25,19,2,50,36,Yes
+497550,Faraj Mallick,20,Other,Khammam,Karnataka,31785,60,0,0,1,6,Locks,2916.08,20,15,2,48,58,No
+908988,Omya Pathak,28,Other,Danapur,Punjab,94116,75,4,2,1,5,"Alarms, Doorbells",806.07,40,14,4,12,5,No
+428009,Darpan Kibe,60,Male,Chennai,Manipur,114455,80,2,0,2,9,Cameras,3703.52,44,11,2,26,57,No
+167803,Hredhaan Choudhry,29,Other,Kochi,Arunachal Pradesh,74968,67,4,0,2,9,Sensors,2905.32,29,5,5,47,24,No
+220626,Bhavani Kaur,41,Female,Katihar,Kerala,97550,83,1,3,2,7,Alarms,3798.88,19,0,5,42,91,No
+617638,Mekhala Baria,50,Male,Srinagar,Sikkim,178515,53,2,0,2,3,"Sensors, Alarms, Locks",620.25,19,7,2,50,70,No
+158687,Ishanvi Kale,37,Other,Kota,Mizoram,125645,4,1,3,1,10,"Sensors, Alarms, Locks",4708.25,27,19,1,46,84,Yes
+827810,Tanish Oza,75,Male,Nadiad,Haryana,53941,28,3,1,1,7,Locks,3260.68,33,6,4,5,15,Yes
+942644,Harrison Trivedi,59,Female,Jaunpur,Uttar Pradesh,99930,96,5,3,0,2,Sensors,3422.2,44,19,1,16,26,No
+933348,Vihaan Rama,42,Female,Vellore,Himachal Pradesh,29861,98,5,3,2,8,Locks,2544.53,23,20,3,33,66,No
+551178,Chaitaly Contractor,28,Male,Saharanpur,Himachal Pradesh,39796,36,3,3,2,6,"Sensors, Cameras",4962.44,42,17,2,5,67,Yes
+753834,Guneet Dani,24,Female,Madanapalle,Rajasthan,155283,26,2,3,1,4,"Doorbells, Locks, Cameras",4789.51,44,3,0,4,17,Yes
+721167,Samar Bal,27,Female,Sasaram,Tamil Nadu,89256,28,2,0,1,9,"Doorbells, Cameras",3685.45,41,10,2,37,27,Yes
+245803,Anamika Loyal,31,Male,Dibrugarh,Telangana,49132,63,1,3,2,8,"Alarms, Sensors, Doorbells",2040.47,16,2,5,11,0,No
+958876,Anamika Sami,44,Other,Bhiwandi,Tamil Nadu,96755,102,0,1,1,1,"Cameras, Sensors, Alarms",2805.84,44,0,4,41,74,No
+521799,Chaitanya Savant,57,Other,North Dumdum,Odisha,113773,57,1,1,1,6,Locks,539.07,20,18,4,43,91,No
+642743,Anmol Bhatti,50,Other,Cuttack,Punjab,74375,104,2,0,0,1,"Locks, Cameras",4045.39,42,14,3,35,60,No
+531117,Madhav Grewal,64,Female,Bharatpur,Odisha,91977,107,3,0,0,8,"Alarms, Sensors",1085.25,45,18,4,30,77,No
+423245,Vyanjana Nair,44,Female,Bally,Assam,151306,92,2,2,1,10,Cameras,4033.23,26,16,3,32,71,No
+187440,Riya Sahota,28,Female,Gaya,Haryana,176354,4,4,0,1,6,Cameras,3013.7,9,9,0,27,3,Yes
+979744,Pranit Ramachandran,25,Female,Imphal,Sikkim,141608,105,2,2,1,10,"Doorbells, Cameras, Alarms",1713.57,22,15,4,9,24,No
+676496,Jalsa Banik,34,Other,Ahmedabad,Jharkhand,23239,78,5,0,2,3,"Locks, Sensors, Cameras",4985.45,4,12,1,23,18,No
+830738,Garima Bera,25,Female,Kota,Haryana,99237,99,0,2,2,9,Cameras,1670.87,6,3,2,14,44,No
+992970,Pahal Srinivasan,71,Other,Etawah,Tripura,60670,59,1,3,2,9,"Cameras, Sensors",4950.41,35,14,0,2,23,Yes
+511392,Ekantika Narang,24,Other,Satna,Tripura,113607,23,5,1,0,1,"Alarms, Doorbells, Locks",3191.52,45,7,4,16,36,Yes
+988927,Arya Dani,65,Male,Surendranagar Dudhrej,Himachal Pradesh,86786,73,1,1,1,2,"Alarms, Sensors",4183.99,10,9,2,22,46,No
+414867,Avi Raman,24,Other,Bongaigaon,Odisha,88145,105,3,3,1,6,Cameras,3676.2,38,16,1,16,9,No
+217642,Frado Sarna,72,Male,Tirupati,Meghalaya,114042,35,0,1,2,6,"Doorbells, Alarms, Cameras",4323.09,35,16,4,44,26,Yes
+562948,Bhavika Rai,64,Other,Gwalior,Sikkim,164527,94,3,2,0,8,"Sensors, Doorbells, Locks",2954.36,26,4,3,43,78,No
+663967,Kamya Bhardwaj,24,Other,New Delhi,Himachal Pradesh,40607,85,2,0,1,9,"Doorbells, Cameras",3283.88,2,2,1,9,51,No
+355809,Parth Pall,74,Male,Satara,Kerala,52438,101,4,2,1,9,"Sensors, Doorbells, Cameras",3563.75,8,5,0,27,87,No
+937182,Benjamin Amble,45,Female,Jaunpur,Haryana,117039,88,4,1,0,10,Cameras,2125.38,23,7,3,0,6,No
+465028,Fiyaz Bhatt,49,Female,Jaunpur,Arunachal Pradesh,153867,27,4,1,0,1,"Sensors, Locks",2143.65,44,0,0,45,37,Yes
+352773,Chameli Sane,73,Male,Gorakhpur,Goa,119499,106,0,1,0,6,"Cameras, Doorbells",3566.61,40,7,5,34,68,No
+210056,Gagan Parmar,39,Female,Korba,Punjab,124129,115,2,1,0,5,Sensors,1198.19,36,2,2,27,52,No
+311813,Pushti Purohit,28,Other,Kalyan-Dombivli,Tamil Nadu,168784,84,3,1,2,3,"Locks, Alarms, Sensors",2831.66,16,0,2,29,80,No
+848091,Liam Sharma,65,Other,Anand,Kerala,97743,101,0,3,1,3,"Cameras, Sensors, Locks",2314.47,43,12,0,48,12,No
+699465,Yutika Kothari,49,Other,Vijayawada,Karnataka,57289,98,2,0,1,2,"Cameras, Doorbells",1511.23,9,11,1,37,15,No
+955354,Vinaya Narula,60,Female,Yamunanagar,Tamil Nadu,140014,90,3,0,2,7,Locks,1082.56,33,6,0,5,30,No
+775845,Isaac Dara,73,Female,Sasaram,Telangana,20154,55,4,2,2,4,"Locks, Cameras",3864.48,2,12,1,20,16,No
+498488,Viraj Bhakta,41,Other,Ratlam,Mizoram,62520,108,2,2,0,10,"Sensors, Alarms, Doorbells",1439.85,33,16,5,9,86,No
+932889,Aarna Mittal,39,Other,Barasat,Jharkhand,83820,83,4,2,2,3,"Locks, Sensors, Cameras",3724.14,39,6,0,39,39,No
+727048,Radha Patla,61,Female,Katihar,Himachal Pradesh,84646,110,5,2,0,2,"Sensors, Alarms, Doorbells",4006.33,48,0,2,14,15,No
+359287,Anika Kara,69,Female,Kharagpur,Haryana,37655,87,1,2,2,5,"Locks, Doorbells, Sensors",989.53,12,20,1,46,63,No
+565199,Ekanta Rajagopal,58,Other,Indore,Uttarakhand,107523,83,5,2,1,10,"Sensors, Locks, Doorbells",3836.04,31,5,4,1,56,No
+773775,Reyansh Basu,46,Male,Varanasi,Karnataka,31522,43,3,0,2,1,"Sensors, Doorbells, Locks",4669.85,45,20,2,32,98,Yes
+131878,Garima Morar,56,Female,Patna,Maharashtra,51798,71,3,3,2,2,"Alarms, Doorbells, Cameras",3984.97,45,3,0,40,74,No
+332346,Vincent Parmer,50,Female,Nangloi Jat,Punjab,162705,75,0,3,1,9,"Locks, Cameras, Sensors",1248.32,3,10,1,14,55,No
+639453,Warinder Joshi,45,Female,Jalgaon,Maharashtra,133465,44,2,3,1,2,"Doorbells, Locks, Sensors",782.1,10,9,2,41,64,No
+687436,Peter Shan,30,Other,Davanagere,Odisha,53828,74,4,0,1,7,Alarms,4012.34,45,15,0,0,51,No
+928922,Falguni Mani,24,Female,Sangli-Miraj & Kupwad,Nagaland,155968,41,3,1,0,6,Alarms,2830.8,7,12,1,5,18,Yes
+130259,Anamika Sangha,62,Male,Kadapa,Gujarat,72782,45,1,1,2,3,Sensors,3026.45,41,17,1,18,56,Yes
+487814,Samaksh Bir,38,Female,Erode,Madhya Pradesh,42417,83,1,0,0,2,Sensors,2264.5,21,20,5,48,7,No
+382678,Samesh Agate,61,Male,Sambhal,Himachal Pradesh,99947,109,0,1,2,10,Doorbells,982.72,28,4,5,15,79,No
+957059,Mugdha Kulkarni,64,Other,Guna,Sikkim,56241,51,1,3,0,7,"Doorbells, Alarms",1103.9,44,8,1,29,41,No
+999287,Sanya Virk,42,Male,Dharmavaram,Odisha,154713,68,1,3,0,8,"Sensors, Alarms",3555.73,14,17,5,36,100,No
+575525,Utkarsh Shukla,52,Male,Ujjain,Punjab,96763,81,2,3,2,10,Cameras,2100.03,33,11,5,11,30,No
+855219,Maya Ramakrishnan,52,Female,Thanjavur,Jharkhand,122453,8,0,0,0,8,Sensors,4504.31,9,11,3,28,46,Yes
+784722,Radha Sood,30,Male,Panipat,Rajasthan,41781,72,1,2,2,9,"Cameras, Locks",3882.86,6,13,4,0,42,No
+638920,Tanveer Brar,32,Male,Chittoor,Uttarakhand,53474,85,3,2,0,5,"Cameras, Locks",3600.69,37,0,0,5,10,No
+474470,Urvi Puri,69,Other,Bhusawal,Sikkim,147543,21,0,2,1,5,Locks,3149.84,35,7,5,16,29,Yes
+334768,Kabir Bail,68,Female,Vasai-Virar,Kerala,78314,97,2,2,0,7,Sensors,4310.42,18,14,4,22,51,No
+468470,Chatura Patla,35,Other,Darbhanga,Meghalaya,190666,24,0,3,0,1,"Cameras, Doorbells",2986.05,8,17,1,37,1,Yes
+221827,Raksha Bali,52,Male,Bhiwani,Mizoram,111823,4,1,2,2,7,"Alarms, Cameras, Doorbells",4941.94,29,9,2,34,74,Yes
+387662,Yashodhara Aurora,52,Other,Navi Mumbai,Uttar Pradesh,177820,72,3,1,0,8,Cameras,4278.71,24,0,3,35,85,No
+610098,Nimrat Parikh,55,Female,Jhansi,Uttar Pradesh,178022,65,0,2,0,4,"Sensors, Cameras",3611.37,5,17,2,45,42,No
+752426,Ethan Dhillon,38,Female,Jehanabad,Mizoram,165337,63,2,1,0,5,Alarms,3884.58,29,18,3,47,77,No
+232510,Mohammed Mallick,62,Male,Mahbubnagar,Kerala,187924,27,0,1,0,7,"Cameras, Sensors",526.82,45,20,5,29,99,Yes
+996701,Eshana Madan,55,Other,Raiganj,Madhya Pradesh,150094,5,3,0,0,5,"Alarms, Cameras, Locks",4897.39,42,2,5,21,56,Yes
+125651,Devika Chad,47,Male,Hosur,Karnataka,168188,64,2,2,0,5,Alarms,3897.45,22,14,0,22,45,No
+733951,Daksh Anne,41,Male,Coimbatore,Meghalaya,142124,62,0,0,0,9,"Sensors, Alarms, Doorbells",2835.53,47,0,1,9,61,Yes
+253287,Xalak Roy,44,Other,Pallavaram,Jharkhand,49206,38,1,3,0,3,"Locks, Alarms",834.01,31,1,3,35,70,Yes
+762488,Leela Sheth,49,Other,Panihati,Andhra Pradesh,100976,85,2,0,2,2,"Doorbells, Alarms, Sensors",4514.45,50,14,1,33,80,No
+413041,Waida Krish,27,Male,Danapur,Jharkhand,87943,33,1,2,0,7,Alarms,4942.55,34,5,3,31,17,Yes
+293613,Mahika Bath,29,Male,Varanasi,Chhattisgarh,127265,17,3,3,1,3,Cameras,4157.97,17,15,5,13,46,Yes
+712204,Siya Palan,21,Other,Saharsa,Jharkhand,169184,120,2,1,1,7,"Cameras, Doorbells",4042.38,42,13,3,8,99,No
+820046,Yashica Sant,47,Female,New Delhi,Telangana,52819,92,0,0,2,7,Locks,1366.59,11,13,2,8,100,No
+857722,Gaurav Chopra,64,Female,Ajmer,Mizoram,162345,36,4,3,0,8,"Alarms, Locks, Sensors",4177.96,45,4,5,16,30,Yes
+393135,Pranit Chanda,56,Other,Sambalpur,Odisha,68330,117,5,3,0,8,Doorbells,2871.74,32,10,5,4,7,No
+394480,Xavier Garg,71,Other,Amaravati,Gujarat,25468,53,0,0,0,9,Cameras,3219.78,43,6,1,28,72,No
+150948,Chandran Mutti,56,Other,Panchkula,Gujarat,172966,78,5,1,0,5,"Locks, Sensors",2408.17,41,1,3,28,21,No
+335907,Zansi Brar,26,Female,Ramgarh,Maharashtra,99270,87,3,1,1,5,"Cameras, Doorbells",912.2,37,13,0,35,88,No
+118412,Onkar Kumar,43,Other,Panihati,Meghalaya,43638,82,4,2,0,10,Cameras,3476.25,25,19,1,26,31,No
+804699,Yachana Bakshi,54,Other,Bidhannagar,West Bengal,179288,88,3,0,0,5,"Alarms, Sensors, Locks",4872.43,18,6,5,34,44,No
+293136,Jeremiah Balay,37,Male,Bareilly,Tripura,193724,73,3,0,0,1,Alarms,4381.31,24,16,5,2,68,No
+257720,Bhavini Kumer,72,Female,Thiruvananthapuram,Arunachal Pradesh,104839,21,0,0,1,6,"Alarms, Sensors, Doorbells",3457.08,24,3,0,6,3,Yes
+396365,Manya Nadig,24,Male,Pimpri-Chinchwad,West Bengal,105232,38,3,0,0,2,"Locks, Cameras, Sensors",3374.44,49,12,3,21,3,Yes
+794640,Anika Mall,36,Male,Jodhpur,Nagaland,159546,99,4,2,1,6,"Alarms, Sensors, Locks",1587.3,29,3,5,14,58,No
+518941,Tamanna Patil,40,Other,Kolkata,Bihar,95176,58,5,1,1,5,Alarms,1491.35,36,13,0,40,31,No
+115687,Divya Thaker,18,Other,Secunderabad,Uttarakhand,39947,49,1,2,2,9,"Sensors, Locks, Doorbells",544.08,32,1,2,2,90,Yes
+349427,Hardik Sengupta,60,Female,Ramgarh,Haryana,54345,98,4,2,2,10,"Alarms, Doorbells",4617.85,18,9,0,21,8,No
+901341,Omaja Bhatnagar,50,Other,Dhule,Madhya Pradesh,199177,34,3,0,2,6,Doorbells,4766.01,37,4,1,4,49,Yes
+800501,Chaitaly Handa,67,Other,Haridwar,Gujarat,118740,41,4,2,2,4,Alarms,3694.76,47,19,0,22,37,Yes
+868693,Radhika Sawhney,53,Other,Asansol,Andhra Pradesh,119756,16,0,3,2,3,Sensors,1758.19,41,4,4,29,81,Yes
+186796,Pallavi Deshmukh,50,Male,Bahraich,Bihar,136018,72,4,1,2,10,"Doorbells, Locks",3472.52,18,1,4,11,35,No
+306746,Yashawini Randhawa,55,Female,Korba,Jharkhand,35043,66,2,3,2,9,"Cameras, Alarms, Locks",3671.82,25,16,2,39,88,No
+482279,Radha Behl,52,Male,Bangalore,Maharashtra,123633,61,5,3,0,1,"Alarms, Sensors",4330.53,25,14,4,22,12,No
+526312,Oviya Apte,44,Female,Guna,Maharashtra,122916,100,5,2,1,2,"Locks, Cameras",1061.47,11,14,0,8,37,No
+141912,Kevin Golla,31,Other,Kolkata,Punjab,121406,11,3,0,0,4,"Locks, Cameras, Alarms",2026.33,15,17,2,48,62,Yes
+690411,Frado Mandal,39,Female,Panihati,Manipur,97538,103,4,1,2,7,"Doorbells, Cameras",2522.33,21,4,2,5,88,No
+445459,Azad Singhal,49,Female,Motihari,Goa,83702,84,3,3,1,2,Cameras,947.06,19,15,5,30,3,No
+663787,Dalaja Chokshi,30,Male,Nizamabad,Meghalaya,68776,101,1,2,1,5,"Sensors, Doorbells, Cameras",615.52,50,14,5,25,48,No
+555254,Jalsa Modi,74,Other,Thrissur,Rajasthan,128826,114,4,1,2,4,"Sensors, Cameras",2565.72,44,5,1,23,80,No
+775176,Ishanvi Sagar,62,Female,Arrah,Chhattisgarh,124525,14,4,1,0,4,"Locks, Sensors, Doorbells",1450.1,35,14,2,1,12,Yes
+274376,Aradhana Bumb,63,Other,Madanapalle,West Bengal,175527,97,5,1,2,7,Alarms,2466.73,29,10,5,26,36,No
+212312,Watika Deo,50,Female,Tinsukia,Andhra Pradesh,162183,99,2,3,1,8,"Sensors, Alarms, Locks",3106.8,33,0,2,38,11,No
+838979,Laban Rai,20,Male,Begusarai,Tamil Nadu,111320,84,1,1,1,3,Locks,718.81,5,16,5,9,19,No
+951408,Udyati Gandhi,25,Male,Khandwa,West Bengal,80860,63,4,3,0,1,"Cameras, Locks, Doorbells",1918.14,40,20,0,13,25,No
+188285,Diya Kanda,62,Female,Jalgaon,Tripura,136412,78,3,1,2,6,"Cameras, Sensors",1658.44,37,20,0,26,42,No
+616376,Kai Sama,27,Female,Kollam,Himachal Pradesh,66807,98,4,2,2,9,Locks,3433.35,34,11,4,4,89,No
+441594,Keya Parmer,62,Other,Unnao,Mizoram,101922,106,5,2,1,8,"Doorbells, Sensors, Locks",3505.83,34,16,2,24,41,No
+203964,Udyati Vala,46,Other,Adoni,Goa,152291,42,3,1,1,6,"Doorbells, Locks, Alarms",2665.16,46,20,1,10,22,Yes
+693928,Raksha Sha,46,Female,Bhiwandi,Nagaland,33282,65,4,3,1,7,"Doorbells, Locks",2048.05,46,10,3,47,19,No
+214626,Adweta Sunder,67,Other,Jamnagar,Maharashtra,20844,22,4,0,1,9,Alarms,1716.38,44,5,2,11,32,Yes
+341093,Harish Bhargava,20,Other,Ramagundam,Nagaland,74136,15,1,0,2,6,"Doorbells, Locks",4385.81,17,5,3,45,5,Yes
+307850,Amrita Vyas,71,Male,Tezpur,Gujarat,82624,86,1,2,1,5,"Sensors, Cameras, Alarms",4014.53,7,20,5,15,71,No
+567482,Anusha Gupta,49,Other,Proddatur,Nagaland,82301,114,3,1,2,9,"Doorbells, Sensors",751.36,22,3,3,44,11,No
+691726,Mitali Kulkarni,61,Female,Meerut,Kerala,181642,92,0,2,2,10,Locks,2241.6,10,15,5,4,26,No
+100201,Xiti Dutta,25,Other,Dewas,Uttar Pradesh,193473,86,2,2,0,4,"Cameras, Doorbells, Sensors",3423.14,2,3,1,29,31,No
+888303,Lakshit Kala,29,Male,New Delhi,Himachal Pradesh,104237,68,2,3,1,4,Cameras,832.38,29,7,1,21,44,No
+961198,Ekiya Pingle,39,Other,Ajmer,Arunachal Pradesh,123396,49,5,1,2,3,"Locks, Doorbells, Sensors",871.7,44,20,4,50,37,No
+171595,Bhavna Solanki,68,Male,Tiruchirappalli,Madhya Pradesh,34035,64,0,0,1,7,"Locks, Doorbells",4344.18,16,8,1,22,6,No
+799542,Owen Krishna,74,Male,Bhopal,Goa,119562,64,2,2,2,9,Alarms,3076.89,3,6,2,7,19,No
+838860,Yoshita Kala,39,Other,Ahmedabad,Uttarakhand,198078,26,0,0,2,1,"Alarms, Cameras",2931.72,32,5,0,13,8,Yes
+204835,Arjun Warrior,72,Other,Junagadh,Odisha,63925,3,1,2,1,6,Doorbells,2852.18,8,11,1,5,28,Yes
+146884,Vrishti Bains,75,Male,Medininagar,Kerala,47595,49,4,0,1,5,"Doorbells, Alarms, Locks",4323.09,35,2,1,6,84,Yes
+435064,Simon Tandon,18,Male,Jalgaon,Karnataka,194818,80,5,3,0,9,"Locks, Sensors",2401.15,36,1,1,21,78,No
+961087,George Kaur,65,Male,Dewas,Himachal Pradesh,91926,33,4,1,1,7,"Cameras, Sensors",3122.3,15,20,0,29,57,Yes
+434647,Brinda Bhatt,59,Female,Thoothukudi,Tripura,193641,110,1,0,2,7,"Sensors, Doorbells",2469.43,37,4,1,27,58,No
+483724,Oeshi Savant,73,Other,Aurangabad,Kerala,105145,119,2,1,0,8,"Locks, Sensors, Alarms",2276.03,35,5,4,27,56,No
+357558,Varenya Naik,66,Other,Madurai,Goa,57631,75,0,2,0,6,"Doorbells, Sensors",2644.44,8,13,3,20,95,No
+702281,Anamika Kumer,35,Female,Srinagar,Kerala,171031,105,1,0,0,2,Sensors,785.77,44,12,2,36,21,No
+471592,Indrajit Ghosh,61,Male,Jodhpur,Madhya Pradesh,54103,22,1,2,0,8,"Sensors, Cameras",807.9,47,11,0,22,52,Yes
+265763,Rishi Yadav,43,Other,Haridwar,Rajasthan,54916,112,0,3,0,4,"Locks, Doorbells, Cameras",558.15,13,13,5,49,82,No
+116716,Tripti Divan,34,Female,Jamalpur,Andhra Pradesh,94924,99,2,3,0,4,"Cameras, Doorbells",3353.51,37,16,4,35,76,No
+144724,Reyansh Basak,62,Male,Muzaffarpur,Bihar,29513,37,0,2,2,4,"Sensors, Alarms, Locks",3714.95,11,16,2,38,68,No
+251087,Sudiksha Thakur,42,Other,Anantapuram,Rajasthan,53922,34,2,3,0,2,"Cameras, Sensors",1608.99,6,20,0,19,58,Yes
+657135,Vincent Iyengar,65,Female,Vijayawada,Tamil Nadu,69914,35,2,0,0,2,"Doorbells, Sensors, Alarms",749.82,1,16,5,48,59,No
+615588,Raagini Pradhan,61,Female,Rajahmundry,Karnataka,84712,64,3,0,1,9,"Alarms, Sensors",2975.1,10,18,4,41,41,No
+528826,Oviya Raghavan,37,Female,Indore,Karnataka,112105,58,2,3,2,10,"Cameras, Sensors",4092.05,0,6,4,35,20,No
+238283,Kashish Lalla,72,Male,Warangal,Maharashtra,91375,25,3,2,1,5,"Doorbells, Cameras",4599.7,43,2,1,43,44,Yes
+737875,Ethan Basu,42,Other,Loni,Karnataka,144253,36,2,3,0,1,"Sensors, Doorbells",913.67,7,16,3,20,79,Yes
+217858,Zaid Pal,52,Male,Mirzapur,Rajasthan,39870,58,1,0,0,4,Alarms,3857.92,31,17,1,32,58,No
+873805,Amol Ram,26,Male,Navi Mumbai,Punjab,77686,33,2,0,0,3,"Alarms, Cameras, Locks",1131.11,14,15,1,33,4,Yes
+859633,Radhika Ramaswamy,37,Female,Amritsar,Assam,142573,80,5,2,2,2,Locks,4168.85,10,5,0,13,17,No
+324376,Falguni Tiwari,30,Male,Bhind,Haryana,71520,65,4,0,0,6,"Locks, Cameras, Sensors",2897.78,49,4,0,33,63,No
+661570,Inaya Basu,37,Female,Latur,Meghalaya,35354,92,5,0,1,7,Sensors,576.1,27,12,5,14,84,No
+578008,Advik Sekhon,27,Female,Tadipatri,Tamil Nadu,118641,72,1,2,0,4,"Cameras, Locks",2740.88,11,0,4,38,61,No
+252480,Harrison Balasubramanian,74,Female,Katihar,Telangana,163780,49,3,0,0,2,"Alarms, Doorbells, Sensors",1966.82,31,3,2,25,91,Yes
+115923,Yamini Nath,38,Other,Raichur,Tamil Nadu,59632,80,3,3,1,3,"Alarms, Locks",1721,11,10,5,5,80,No
+361182,Nathaniel Nayar,64,Male,Anand,Haryana,67852,77,0,0,1,5,"Sensors, Doorbells",2122.21,42,4,0,5,94,No
+995325,Pooja Brahmbhatt,44,Female,Bidar,West Bengal,29585,116,5,3,2,6,"Doorbells, Locks, Cameras",1289.53,15,5,1,20,43,No
+818087,Rohan Dar,52,Other,Mirzapur,Sikkim,90259,41,4,3,0,4,"Sensors, Alarms, Cameras",741.73,7,7,4,4,79,Yes
+333565,Zayyan Raj,61,Female,Bhatpara,West Bengal,177523,79,0,0,0,4,"Locks, Sensors, Cameras",4830.45,29,17,3,45,12,No
+179007,Karan Yohannan,55,Male,Katni,Tamil Nadu,125658,75,5,2,0,6,Cameras,3843.59,45,17,5,4,3,No
+709913,Aishani Nagy,57,Female,Bhiwani,Assam,150039,21,0,0,2,5,"Doorbells, Cameras",846.84,28,7,1,26,32,Yes
+418406,Benjamin Bajaj,48,Female,Udaipur,Bihar,48620,39,2,3,0,5,"Alarms, Locks, Sensors",2112.08,50,16,4,33,87,Yes
+595120,Sanaya Ravel,25,Male,Surat,Tamil Nadu,172161,43,1,0,0,4,"Locks, Alarms",3845.41,0,15,5,43,23,No
+854350,Quincy Kari,19,Female,Moradabad,West Bengal,96145,32,0,3,0,10,"Locks, Alarms",3116.91,36,17,0,49,87,Yes
+559448,Radhika Mahal,26,Female,Bhavnagar,Tripura,72093,67,3,1,1,2,"Cameras, Doorbells, Sensors",1734.88,45,2,4,2,10,Yes
+231836,Girik Devan,19,Male,Aurangabad,Assam,152083,114,5,0,1,7,"Doorbells, Sensors",3517.88,9,10,0,16,96,No
+562155,Chandran Mall,20,Female,Ahmednagar,Gujarat,103541,5,3,1,1,9,"Locks, Alarms, Sensors",1185.75,12,9,1,44,8,Yes
+327183,Jalsa Madan,63,Other,Nagpur,Odisha,60562,115,4,1,1,10,"Cameras, Alarms",2168.65,17,17,0,12,53,No
+754694,Falak Barad,24,Other,Miryalaguda,Jharkhand,65561,11,4,3,2,3,"Locks, Sensors",3497.86,39,5,2,18,66,Yes
+601733,Kashvi Wagle,53,Female,Tenali,Nagaland,87678,87,3,3,0,6,"Locks, Doorbells",1221.65,44,20,5,41,32,No
+619140,Wakeeta Trivedi,32,Other,Unnao,Andhra Pradesh,25223,114,5,0,1,4,Cameras,2847.93,5,15,4,47,24,No
+947612,Oscar Jani,61,Male,Shimla,West Bengal,165171,30,1,0,1,5,Alarms,2424.48,48,0,2,1,71,Yes
+251603,Omisha Hora,31,Female,Sambalpur,Punjab,29995,45,3,0,0,5,"Locks, Alarms",1822.8,40,0,2,41,12,No
+340975,Jagvi Saran,69,Other,Gulbarga,Haryana,197048,82,5,0,1,8,"Doorbells, Cameras, Alarms",3019.66,23,0,1,48,72,No
+415069,Ekiya Thaker,28,Other,Noida,Assam,63075,109,4,0,0,10,"Cameras, Locks",2224.8,4,19,5,33,9,No
+725293,Henry Majumdar,36,Male,Bahraich,Maharashtra,121754,72,2,1,2,4,Sensors,1335.08,33,18,4,8,7,No
+792408,Vyanjana Rana,22,Female,Chapra,Tripura,62812,41,4,0,1,9,"Alarms, Locks",2651.55,10,12,0,25,86,No
+103219,Dominic Kari,47,Male,Bhiwani,Gujarat,84964,42,2,0,0,10,"Cameras, Alarms, Sensors",2115.67,49,11,1,12,71,Yes
+287460,Hemani Dasgupta,68,Other,Bettiah,Goa,91647,107,0,3,2,2,Sensors,4896.77,16,0,2,25,39,No
+807617,Raksha Shankar,34,Male,Amroha,Manipur,85567,87,0,3,2,10,"Doorbells, Sensors, Cameras",3935.3,5,4,3,9,30,No
+457868,Viraj Krishnan,46,Other,Gulbarga,Telangana,194738,39,0,0,1,2,Locks,1469.73,12,7,4,16,29,Yes
+737013,Chakrika Mohan,58,Male,Bihar Sharif,Goa,121739,11,4,0,0,4,Sensors,1670.34,4,16,0,46,8,Yes
+799437,Tara Ghosh,69,Male,Mango,Gujarat,178074,35,0,1,2,9,"Doorbells, Locks, Cameras",2308.71,44,18,4,45,53,Yes
+848590,Sanaya Balay,60,Other,Mango,Kerala,171328,64,5,3,2,8,Alarms,1473.05,11,13,2,0,4,No
+551634,Januja Ratti,63,Other,Surendranagar Dudhrej,Telangana,167347,107,1,1,1,10,"Cameras, Alarms, Sensors",2836.64,5,9,0,14,11,No
+148275,Warhi Rout,58,Male,Jabalpur,West Bengal,147877,11,3,0,1,5,Cameras,3726.5,0,18,1,1,15,Yes
+762991,Amruta Ravi,72,Male,Nadiad,Karnataka,95344,12,4,1,0,6,"Doorbells, Sensors",3150.7,49,0,3,13,3,Yes
+443375,Utkarsh Naik,70,Male,Bhimavaram,Assam,35232,104,4,1,2,10,"Locks, Alarms",2513.05,41,15,4,47,34,No
+336781,Yash Swaminathan,22,Other,Belgaum,Arunachal Pradesh,40999,21,2,0,0,10,"Sensors, Locks, Alarms",3260.5,38,11,1,24,47,Yes
+868491,Tanay Choudhury,61,Other,Jodhpur,Arunachal Pradesh,27639,34,5,2,1,4,Doorbells,3445.49,44,8,2,2,72,Yes
+939381,Leela Barad,24,Other,Chennai,Kerala,87142,1,5,3,1,2,"Cameras, Sensors",2611.09,28,16,5,41,13,Yes
+974697,Amaira Venkataraman,23,Other,Madhyamgram,Meghalaya,120807,31,0,2,2,5,"Sensors, Doorbells",2440.12,43,18,3,36,17,Yes
+287390,Wyatt Bala,69,Female,Darbhanga,Uttar Pradesh,188484,94,0,0,1,9,"Locks, Alarms",4485.56,37,11,2,39,84,No
+823545,Darsh Dugal,37,Male,Adoni,Jharkhand,49408,40,3,3,1,7,Cameras,3011.23,16,4,4,50,6,No
+122335,Rishi Baral,58,Female,Rourkela,Assam,20853,108,5,3,1,9,"Alarms, Doorbells, Sensors",4326.21,37,10,5,35,9,No
+204117,Faris Nagy,28,Female,Allahabad,Mizoram,191162,38,3,2,1,8,Alarms,688.27,29,3,4,27,66,Yes
+544434,Jatin Palla,27,Male,Delhi,Kerala,86579,111,4,0,2,5,"Locks, Sensors, Doorbells",3652.23,16,0,1,7,72,No
+394354,Dalaja Handa,22,Other,Rajpur Sonarpur,Assam,40386,87,5,1,0,5,Doorbells,4034.67,31,1,1,40,0,No
+448543,Raghav More,37,Other,Ghaziabad,Nagaland,103172,98,5,3,2,1,"Cameras, Doorbells",3823.99,45,1,3,36,59,No
+141686,Meera Dash,57,Other,Hajipur,Arunachal Pradesh,166148,64,0,1,0,5,"Alarms, Sensors",721.45,24,16,0,39,53,No
+229366,Chaitanya Shan,54,Other,Kota,Haryana,164530,88,2,1,1,8,"Sensors, Locks",4573.2,45,2,1,34,62,No
+689414,Gauri Kalita,72,Male,Kozhikode,Rajasthan,163850,98,5,3,0,2,"Sensors, Doorbells, Cameras",674.96,33,6,2,35,28,No
+294742,Imaran Kota,31,Male,Thiruvananthapuram,Arunachal Pradesh,22644,8,1,0,0,7,"Sensors, Cameras",1464.16,2,6,0,27,7,Yes
+587392,Hamsini Rattan,52,Other,Raichur,Nagaland,174397,95,0,1,2,7,"Locks, Alarms",3045.74,7,16,1,22,17,No
+913947,Harshil Mohan,62,Male,Tadepalligudem,Maharashtra,141497,110,4,0,2,10,Alarms,1165.31,39,2,0,43,48,No
+280115,Harini Toor,25,Female,Medininagar,Bihar,147852,26,3,0,1,8,"Doorbells, Alarms, Locks",2951.82,44,15,0,27,24,Yes
+987726,Fariq Khalsa,75,Male,Bijapur,Nagaland,65685,30,5,2,1,2,"Alarms, Cameras",3860.58,7,17,1,9,36,Yes
+981212,Chatura Kaur,46,Female,Raurkela Industrial Township,West Bengal,46428,56,3,3,0,8,Locks,1140.11,33,4,2,4,1,Yes
+162216,Fariq Madan,24,Male,Gudivada,Haryana,23237,104,2,0,0,5,Locks,4578.13,48,18,5,28,10,No
+568756,Upasna Narayanan,55,Male,Sagar,Maharashtra,143886,4,0,3,0,4,"Locks, Alarms, Doorbells",2488.26,33,8,0,46,15,Yes
+894191,Qabil Bera,59,Male,Kota,Haryana,73922,20,4,1,1,1,"Cameras, Locks, Sensors",3367.43,7,5,1,0,30,Yes
+893122,Priya Kalla,57,Male,Tiruvottiyur,Tripura,51607,116,0,3,1,3,"Sensors, Doorbells",1093.02,38,5,5,48,6,No
+100104,Rajata Palla,57,Male,Panipat,Uttarakhand,111923,95,3,1,1,2,"Doorbells, Alarms",3108.94,46,12,5,40,39,No
+968791,Qadim Kamdar,62,Female,Thanjavur,Maharashtra,31056,55,5,1,1,1,Sensors,2184.38,16,18,1,41,69,No
+981517,Bhavika Goyal,29,Other,Guntur,Telangana,52490,42,1,3,1,7,"Doorbells, Locks, Cameras",3911.77,11,10,2,8,96,Yes
+578218,Shivansh Joshi,38,Other,Karnal,Gujarat,60169,116,2,2,0,4,"Locks, Doorbells, Cameras",4587.18,20,6,0,30,48,No
+255534,Laban Loyal,49,Other,Ranchi,Punjab,27544,15,4,0,2,5,"Cameras, Locks",1327.8,35,17,4,13,37,Yes
+900221,Urvi Basak,43,Male,Thoothukudi,Odisha,46157,97,4,2,2,10,"Cameras, Locks, Alarms",1249.69,46,16,1,24,37,No
+243180,Chatresh Seshadri,65,Female,Parbhani,Madhya Pradesh,163191,69,2,2,0,9,Cameras,2536.54,48,15,4,43,15,No
+126013,Deepa Gaba,25,Other,Solapur,Punjab,117613,5,1,0,2,1,"Sensors, Alarms",2408.01,19,0,5,49,7,Yes
+585895,Mohini Agrawal,67,Other,Patiala,Tamil Nadu,96808,15,4,1,1,3,"Sensors, Cameras",2083.69,0,18,2,21,23,Yes
+447234,Edhitha Chandra,62,Female,Baranagar,West Bengal,135381,97,4,0,1,2,"Sensors, Doorbells",3395.83,18,10,0,4,57,No
+783364,Ryan Bera,36,Other,Malda,Sikkim,164918,106,3,1,2,7,Cameras,4131.7,6,11,5,32,34,No
+683035,Ekantika Gulati,20,Male,Arrah,Maharashtra,37976,56,5,2,2,6,"Doorbells, Sensors",1055.12,47,13,1,11,71,Yes
+469960,Ojas Chowdhury,20,Other,Surendranagar Dudhrej,Sikkim,183903,105,5,3,0,9,"Doorbells, Locks, Sensors",4959.31,30,16,2,46,23,No
+656516,Mekhala Kant,18,Other,Bahraich,Goa,23876,64,5,1,0,8,"Doorbells, Cameras, Sensors",4327.68,31,11,4,25,64,No
+111972,Abha Kumar,63,Female,Kishanganj,Tamil Nadu,132284,40,1,3,1,4,Alarms,1948.85,22,8,5,42,54,No
+852911,Manan Kuruvilla,56,Male,Visakhapatnam,Sikkim,130370,49,0,0,2,5,"Alarms, Sensors, Locks",4749.98,25,0,2,39,10,No
+367512,Keya Trivedi,33,Other,Berhampur,Meghalaya,183110,22,4,2,2,4,"Doorbells, Alarms, Locks",2958.76,36,19,5,30,9,Yes
+847829,Gunbir Ramesh,51,Male,Chandrapur,Jharkhand,70664,80,4,2,1,1,"Locks, Sensors, Alarms",1358.86,31,16,1,28,18,No
+612051,Zashil Padmanabhan,54,Female,Darbhanga,Telangana,145271,46,5,0,1,3,"Sensors, Locks",3819.38,26,6,2,20,74,Yes
+686888,Krishna Bhatnagar,68,Male,Amravati,West Bengal,142734,68,4,2,1,9,"Sensors, Locks",3753.54,11,0,3,13,75,No
+403598,Darsh Memon,38,Male,Chittoor,Maharashtra,128087,113,2,1,0,3,"Alarms, Locks, Doorbells",2741.82,48,15,5,45,13,No
+620511,Ekantika Dhawan,21,Other,Jammu,Haryana,65297,51,4,2,2,10,"Sensors, Cameras",2659.08,28,8,5,46,6,No
+668939,Lakshit Merchant,25,Female,Jorhat,Bihar,180042,63,4,1,0,5,"Alarms, Doorbells, Cameras",2839.01,27,6,0,12,76,No
+391369,Rudra Butala,74,Male,Narasaraopet,Meghalaya,72132,59,2,0,1,10,"Cameras, Locks",2979.9,39,12,3,4,19,Yes
+489417,Eta Devi,19,Other,Ulhasnagar,Odisha,40489,36,3,3,0,10,"Sensors, Alarms, Cameras",2536.61,19,10,0,38,69,No
+933789,Nidra Kala,31,Female,Durgapur,Goa,80783,58,0,2,0,8,"Locks, Cameras",1551.74,14,3,2,21,1,No
+997458,Idika Rastogi,68,Male,Dhule,Goa,134974,5,5,0,0,7,"Cameras, Doorbells",3465.83,19,4,3,38,36,Yes
+135950,Bishakha Korpal,43,Female,Nandyal,Assam,156244,34,3,2,0,4,"Cameras, Locks",2868.35,50,1,1,4,10,Yes
+522721,Rishi Prakash,73,Female,Hindupur,Assam,42784,110,1,1,2,9,"Alarms, Cameras",1881.83,22,4,4,21,38,No
+690332,Januja Nagar,34,Other,Chapra,Karnataka,37577,8,2,0,0,7,"Locks, Alarms",4393.31,44,1,5,40,2,Yes
+378951,Ucchal Banerjee,33,Other,Jehanabad,Maharashtra,98893,88,5,3,0,4,Cameras,2293.59,13,20,5,38,2,No
+749982,Amol Wadhwa,50,Other,Salem,Madhya Pradesh,119603,116,2,0,0,6,"Doorbells, Alarms, Cameras",528.54,19,11,3,25,50,No
+563236,Urishilla Upadhyay,65,Other,Bhiwandi,Uttarakhand,191936,9,4,2,0,2,"Cameras, Doorbells, Sensors",3537.87,0,20,1,31,99,Yes
+829484,Amrita Deshmukh,21,Male,Hazaribagh,Madhya Pradesh,29775,81,1,2,2,8,Locks,2191.17,38,0,0,46,38,No
+135925,Shaurya Baral,67,Other,Gaya,Jharkhand,182370,81,3,2,1,8,"Cameras, Doorbells, Sensors",2679.46,8,18,3,41,41,No
+249288,Yahvi Peri,74,Other,Nanded,Tamil Nadu,184330,36,2,3,0,10,Doorbells,4477.54,27,20,1,44,88,No
+904394,Logan Radhakrishnan,68,Female,Nandyal,Mizoram,138949,12,4,3,1,4,Sensors,2384.47,24,6,0,4,87,Yes
+847515,Nandini Arora,62,Male,Nagpur,Tripura,129713,61,0,2,2,8,Sensors,4275.53,19,17,4,36,86,No
+322058,Yahvi Bhatia,68,Female,Panipat,Chhattisgarh,85751,19,2,3,1,2,"Locks, Sensors",3365.53,10,18,5,4,21,Yes
+300854,Nikita Bedi,68,Male,Madhyamgram,Himachal Pradesh,96314,99,1,3,1,10,"Doorbells, Cameras",3426.39,17,9,2,29,70,No
+996788,Max Keer,48,Male,Noida,Uttar Pradesh,157615,32,3,3,2,1,"Alarms, Cameras",1461.67,40,14,3,41,88,Yes
+419633,Madhavi Badami,55,Female,Delhi,Meghalaya,117434,117,0,3,2,9,"Locks, Alarms, Doorbells",2816.49,2,17,5,8,6,No
+169420,Chakrika Reddy,71,Other,Dibrugarh,Madhya Pradesh,25221,69,3,3,0,4,"Locks, Alarms, Sensors",2816.05,15,17,5,35,23,No
+596051,Charan Munshi,18,Other,Machilipatnam,Arunachal Pradesh,99485,90,3,1,2,10,"Locks, Doorbells, Cameras",3794.99,36,5,3,4,35,No
+349747,Daksh Ray,32,Female,Saharsa,Maharashtra,27761,94,3,3,1,6,"Doorbells, Locks",4255.26,17,19,4,44,29,No
+777688,Raksha Ranganathan,31,Male,Navi Mumbai,Bihar,191271,3,4,0,1,9,Alarms,4001.3,13,1,2,21,99,Yes
+890515,Geetika Soman,18,Female,Guwahati,Chhattisgarh,166731,12,5,1,2,7,"Alarms, Doorbells, Locks",4507.27,15,3,4,39,40,Yes
+830998,Samarth Bumb,41,Male,Korba,Uttar Pradesh,81732,1,0,3,0,6,Locks,4992.65,37,3,0,31,68,Yes
+659154,Chanchal Bhagat,74,Female,Udupi,Tripura,120672,25,2,0,1,4,Cameras,3148.76,7,12,0,44,69,Yes
+277549,Benjamin Dewan,33,Male,Chandigarh,Rajasthan,83683,3,0,1,2,6,"Doorbells, Alarms, Cameras",2211.06,7,2,5,24,52,Yes
+847056,Farhan Banik,64,Male,Tiruppur,Madhya Pradesh,82214,107,3,3,1,4,"Sensors, Locks",1251.05,15,5,2,45,7,No
+949772,Advaith Desai,23,Male,Nellore,Odisha,191369,114,5,2,1,4,"Sensors, Locks",917.79,35,8,0,15,76,No
+628088,Vedika Dyal,33,Female,Varanasi,Punjab,96635,35,4,2,1,2,"Sensors, Locks, Cameras",2728.29,20,5,0,29,42,Yes
+481166,Jeevika Om,75,Other,New Delhi,Himachal Pradesh,74599,16,3,2,0,10,"Doorbells, Locks",3700.55,17,0,0,47,79,Yes
+669443,Samuel Pradhan,43,Male,Saharanpur,Mizoram,119747,117,0,0,1,6,"Doorbells, Cameras, Locks",1344.11,36,16,2,34,51,No
+819807,Indali Deo,40,Other,Kakinada,Meghalaya,128230,57,1,1,0,10,"Locks, Sensors, Cameras",4995.82,21,6,0,3,69,Yes
+135577,Shaurya Saraf,72,Other,Narasaraopet,Odisha,92086,12,3,3,0,10,"Cameras, Locks",3284.25,38,0,5,34,52,Yes
+985671,Aarav Majumdar,35,Other,Morbi,Telangana,72547,53,5,1,0,8,"Cameras, Sensors, Locks",2926.68,7,18,0,41,52,No
+553375,Vedant Rege,38,Male,Tumkur,Rajasthan,88417,96,3,1,1,4,"Alarms, Locks",3254.15,37,7,4,43,80,No
+969971,Januja Mukherjee,71,Female,Kavali,Karnataka,56368,39,5,3,1,2,"Alarms, Sensors",2200.11,20,18,5,30,16,Yes
+841701,Advay Lanka,62,Other,Chittoor,Gujarat,86307,30,5,0,1,7,Alarms,1136.82,31,12,3,22,64,Yes
+354867,Gautami Sha,44,Female,Sasaram,Jharkhand,88298,99,3,2,0,7,Doorbells,2980.32,42,10,3,30,32,No
+382237,Chakrika Agate,73,Other,Kishanganj,Sikkim,185714,78,2,1,2,8,"Doorbells, Sensors, Alarms",3009.48,46,2,0,50,68,No
+716726,Aarini Mitra,30,Other,Kota,Assam,89587,12,0,3,1,1,"Doorbells, Alarms, Cameras",3672.48,22,5,2,36,63,Yes
+913230,Damini Mohan,63,Other,Malda,Gujarat,104938,43,2,0,1,10,"Locks, Alarms, Cameras",1018.87,22,3,2,7,36,Yes
+613776,Kalpit Upadhyay,64,Male,Ramagundam,Goa,49679,63,1,2,1,5,"Cameras, Sensors, Alarms",1045.6,12,14,4,6,30,No
+745637,Meghana Sabharwal,32,Other,Bhatpara,Himachal Pradesh,176852,42,1,3,0,9,"Cameras, Locks, Doorbells",3765.76,35,8,5,11,60,Yes
+438497,Leena Thaker,20,Other,Jamshedpur,Tamil Nadu,168883,59,5,1,1,2,"Doorbells, Alarms, Sensors",1531.87,18,9,1,6,32,No
+919198,Ekalinga Bobal,51,Female,Tinsukia,Arunachal Pradesh,192113,90,3,3,0,9,"Sensors, Cameras",2286.08,29,4,0,0,35,No
+145356,Teerth Kala,44,Male,South Dumdum,Bihar,151282,91,0,3,1,5,Sensors,2340.04,34,9,3,4,2,No
+773831,Aarush Prabhakar,28,Female,Gudivada,West Bengal,178592,101,5,0,2,5,"Doorbells, Locks, Alarms",3129.31,4,20,2,17,47,No
+884243,Gaurav Shan,18,Other,Madurai,Punjab,124951,1,2,1,2,5,"Cameras, Sensors",2854.81,42,10,3,47,72,Yes
+826959,Ryan Parsa,66,Female,Nizamabad,Arunachal Pradesh,147462,28,4,1,0,6,"Doorbells, Cameras",1262.42,25,5,1,1,58,Yes
+278671,Vamakshi Singh,74,Other,Kottayam,Mizoram,184744,110,3,2,2,3,Cameras,1823.09,25,7,3,5,63,No
+987648,Neel Pall,70,Female,Udaipur,Assam,86301,107,2,0,0,3,"Doorbells, Sensors, Alarms",3803.45,35,4,2,13,65,No
+241246,Adweta Toor,18,Other,Kolkata,Nagaland,65541,38,4,2,1,2,"Cameras, Locks, Alarms",3623.93,17,17,0,26,75,Yes
+402168,Rajata Pingle,70,Other,Karnal,Manipur,63914,3,3,3,0,2,Alarms,4617.95,50,17,0,29,88,Yes
+590833,Eesha Mishra,27,Male,Nizamabad,Arunachal Pradesh,177772,12,5,0,0,1,"Sensors, Alarms",4480.54,2,4,3,34,45,Yes
+933945,Kamala Char,40,Male,Tirupati,Odisha,152659,67,1,1,0,4,"Alarms, Sensors, Cameras",2790.95,37,17,0,24,87,No
+968144,Forum Sibal,48,Female,Shivpuri,Andhra Pradesh,62451,107,3,2,2,5,"Doorbells, Cameras",1200.02,13,13,2,15,83,No
+542364,Lipika Wali,43,Other,Panvel,Punjab,196294,72,5,1,2,10,Doorbells,4743.49,11,14,5,9,45,No
+936646,Pahal Tara,54,Female,Arrah,West Bengal,36391,30,4,2,0,8,Doorbells,1652.87,5,5,5,47,92,Yes
+216333,Wazir Bajaj,37,Female,Cuttack,Goa,55630,14,1,0,2,6,Locks,2664.83,3,19,5,20,25,Yes
+636983,Siddharth Pradhan,32,Female,Jodhpur,Arunachal Pradesh,39331,102,5,3,1,1,Sensors,2781.93,43,3,1,31,17,No
+207255,Logan Swaminathan,65,Male,Mira-Bhayandar,Gujarat,104849,52,2,3,0,10,"Doorbells, Alarms",3134.45,37,14,0,27,32,No
+840372,Warjas Saha,74,Male,Surat,Rajasthan,154770,82,0,3,0,5,Sensors,3799.37,24,10,4,43,65,No
+259156,Bhavini Bassi,73,Male,Bulandshahr,Manipur,144466,29,5,2,2,8,"Cameras, Locks, Sensors",4198.5,8,18,2,33,58,Yes
+183830,Chakrika Parmar,49,Other,Karimnagar,Maharashtra,67280,53,0,2,0,8,"Locks, Alarms",2669.75,6,13,2,37,10,No
+993418,Sanaya Sarna,52,Female,Gopalpur,Karnataka,25974,68,3,2,0,7,"Sensors, Locks, Cameras",733.78,12,13,1,36,45,No
+258449,Gavin Merchant,23,Female,Orai,Haryana,68194,55,5,2,2,2,"Alarms, Locks",4180.43,35,1,4,26,43,No
+700051,Hiral Deo,62,Male,Parbhani,Gujarat,43793,118,5,2,1,5,"Locks, Cameras",2852.73,49,7,0,12,64,No
+155647,Shivansh Bandi,31,Other,Bikaner,Nagaland,181670,63,5,3,0,5,Cameras,3498.29,30,11,0,41,87,No
+419160,Chavvi Bains,55,Male,Sri Ganganagar,Karnataka,119010,118,1,3,0,3,Sensors,1876.93,23,16,1,26,100,No
+436938,Widisha Ratta,21,Female,Chandigarh,Tamil Nadu,35209,54,0,0,2,4,"Locks, Doorbells, Alarms",607.92,18,13,1,27,70,No
+867211,Vivaan Patla,36,Male,Bhilai,Karnataka,68813,32,5,0,0,2,Locks,4141.72,24,0,0,14,12,Yes
+152514,Nimrat Chowdhury,25,Female,Miryalaguda,Andhra Pradesh,140006,99,2,1,0,1,"Alarms, Doorbells",1764.29,35,16,3,21,12,No
+722644,Oviya Sama,71,Other,Bikaner,Chhattisgarh,167406,80,2,1,2,10,Sensors,2930.03,28,13,5,15,88,No
+679307,Imaran Bains,66,Male,Warangal,Haryana,76335,24,2,2,0,9,"Alarms, Locks",945.24,50,14,0,17,6,Yes
+794172,Ikshita Lata,20,Male,Rajkot,Assam,155776,61,5,2,2,9,Cameras,3784.68,2,20,4,35,92,No
+429891,Viraj Varughese,75,Male,Bhavnagar,Mizoram,77687,89,2,0,2,3,"Sensors, Doorbells, Cameras",4608.14,18,12,1,6,40,No
+501266,Jackson Sathe,31,Male,Erode,Andhra Pradesh,72943,13,5,3,0,6,Locks,4530.71,22,15,4,8,75,Yes
+168851,Yasti Bera,22,Female,Maheshtala,Tripura,149920,77,0,3,1,9,"Sensors, Alarms",2418.65,4,1,4,43,74,No
+234121,Arjun Mitra,71,Female,Suryapet,Maharashtra,189474,84,3,3,2,3,"Cameras, Doorbells, Sensors",1766.01,5,3,0,33,8,No
+623938,Hiral Pradhan,20,Female,Ulhasnagar,Nagaland,109609,92,5,3,1,7,"Cameras, Locks, Doorbells",2813.52,1,3,3,40,30,No
+932870,Chavvi Basu,75,Other,Malda,Haryana,86780,71,2,2,1,6,"Sensors, Doorbells, Cameras",4928.38,10,11,1,20,41,No
+794299,Shivani Verma,18,Female,Munger,Telangana,113393,52,5,3,1,3,"Sensors, Locks, Alarms",4078.21,15,4,2,40,40,No
+155417,Yashoda Randhawa,62,Other,Pali,Uttarakhand,80092,107,1,1,2,2,"Doorbells, Cameras, Sensors",4493.3,24,2,2,19,23,No
+808948,Siya Gandhi,24,Other,Sri Ganganagar,Arunachal Pradesh,152217,103,1,3,0,7,"Locks, Cameras, Alarms",927.05,40,19,4,8,83,No
+646143,Laksh Chadha,63,Male,Singrauli,Maharashtra,41147,16,0,3,1,4,"Doorbells, Cameras",3375.61,0,9,3,10,43,Yes
+443502,Kai Sidhu,27,Other,Amritsar,West Bengal,197422,117,3,1,0,8,Sensors,2688.13,43,5,5,13,96,No
+752200,Theodore Luthra,34,Male,Gangtok,Goa,53985,84,2,0,0,9,Alarms,658.83,50,5,1,14,46,No
+601072,Upadhriti Bobal,72,Female,Kota,Andhra Pradesh,181096,93,1,0,2,1,"Doorbells, Sensors, Alarms",4752.81,42,7,1,9,21,No
+486010,Pahal Johal,71,Other,Udaipur,Bihar,44850,81,4,1,1,7,Cameras,4772.49,47,15,5,27,80,No
+863655,Radhika Ahluwalia,63,Male,Srinagar,Tripura,67508,81,5,0,1,8,"Cameras, Alarms",982.61,11,15,1,38,90,No
+420331,Bhanumati Dua,54,Female,Khandwa,Madhya Pradesh,130924,115,0,0,1,2,"Locks, Cameras",2828.43,47,8,2,14,44,No
+141455,Warjas Issac,60,Female,Alappuzha,Arunachal Pradesh,102298,11,5,1,2,8,Alarms,4790.9,23,9,5,32,4,Yes
+201024,Kashish Dash,51,Male,Dharmavaram,Assam,55767,51,2,3,1,4,"Alarms, Doorbells",1876.12,5,5,2,45,83,No
+508802,Yachana Kar,75,Male,Dewas,Madhya Pradesh,88955,42,2,1,0,3,Alarms,2457.84,3,11,5,8,43,Yes
+645397,Frado Golla,22,Male,Mira-Bhayandar,Odisha,98658,108,1,2,1,2,"Doorbells, Sensors, Cameras",2992.29,19,18,4,46,53,No
+646966,Upadhriti Garg,26,Other,Kakinada,Telangana,133852,94,0,0,2,4,Alarms,4802.06,38,10,4,15,41,No
+452235,Bhavya Natarajan,74,Male,Ajmer,Uttarakhand,60509,45,2,3,1,6,"Locks, Alarms, Doorbells",2703.51,5,5,3,9,34,Yes
+666427,Mitesh Oommen,50,Female,Ranchi,Bihar,102860,17,1,2,0,2,Locks,637.66,29,6,0,7,7,Yes
+285513,Nathan Issac,61,Female,Miryalaguda,West Bengal,49197,60,0,0,0,5,"Cameras, Alarms",4389.98,48,11,2,36,0,No
+513481,Anay Chandra,54,Female,Bathinda,Haryana,21055,74,3,3,2,4,"Locks, Alarms",2534.91,9,19,3,44,46,No
+991775,Oliver Bhattacharyya,44,Female,Hospet,Arunachal Pradesh,163312,93,5,2,0,7,"Cameras, Doorbells",2826.84,43,13,0,45,88,No
+193858,Faqid Gill,40,Other,Khammam,Maharashtra,86081,68,2,2,0,2,"Locks, Cameras",920.3,43,10,0,36,88,No
+636298,Adya Bajwa,45,Other,Kollam,Maharashtra,128701,97,3,1,0,8,"Sensors, Cameras",2310.56,25,7,0,36,10,No
+957529,Ryan Barad,36,Male,Bhimavaram,Karnataka,179556,57,0,0,2,9,"Cameras, Locks",4108.7,42,19,3,44,63,No
+303297,Gautami Grover,42,Female,Ulhasnagar,Kerala,82001,53,4,2,2,7,Alarms,2827.26,43,3,1,32,7,No
+602934,Abhimanyu Arya,45,Other,Coimbatore,Tamil Nadu,48778,25,1,3,0,9,"Alarms, Doorbells, Sensors",4979.09,47,2,4,18,6,Yes
+729727,Liam Borra,47,Other,Mangalore,Jharkhand,133841,45,3,1,2,3,"Cameras, Sensors, Alarms",1375.87,33,13,4,6,41,Yes
+545531,Bachittar Nigam,43,Female,Tirupati,Nagaland,129277,45,5,0,2,7,Locks,1521.43,48,6,0,18,53,Yes
+798661,Sathvik Sankar,30,Other,Arrah,Manipur,169831,19,1,1,0,3,"Doorbells, Cameras, Alarms",4342.33,11,8,3,28,63,Yes
+790005,Urvashi Khalsa,51,Male,Singrauli,Uttarakhand,140400,91,1,0,0,3,"Alarms, Locks",1430.98,41,0,2,30,16,No
+264409,Saumya Andra,46,Female,Shimoga,Madhya Pradesh,53185,67,3,0,0,3,"Alarms, Doorbells, Cameras",1025.57,44,20,1,29,44,No
+725851,Charvi Kaur,74,Other,Gwalior,Gujarat,184386,78,2,3,1,5,"Doorbells, Cameras",3956.87,18,1,5,19,74,No
+178575,Vaishnavi Bera,44,Male,Bulandshahr,Himachal Pradesh,34637,9,1,3,2,5,"Locks, Alarms",2996.79,11,9,5,7,2,Yes
+134691,Abhimanyu Salvi,74,Female,Vijayanagaram,West Bengal,114419,64,0,1,1,6,"Cameras, Doorbells",3280.38,29,7,4,36,53,No
+861049,Damini Rajagopal,19,Other,Nanded,Himachal Pradesh,93743,112,3,0,2,8,"Doorbells, Cameras",2696.14,32,14,4,35,71,No
+951912,Chavvi Mukherjee,50,Male,Rampur,Telangana,185336,32,3,2,2,4,"Alarms, Cameras",2528.57,26,13,3,27,29,Yes
+823776,Yatan Yogi,57,Female,Gorakhpur,Assam,98953,96,4,2,2,3,Doorbells,553.77,4,9,0,3,68,No
+697182,Eta Sagar,44,Other,Firozabad,Nagaland,132380,33,4,1,0,1,Doorbells,1240.78,42,19,0,33,74,Yes
+127041,Onkar Chopra,73,Male,Chinsurah,Telangana,80202,68,3,1,0,5,"Doorbells, Cameras, Sensors",2093.46,10,6,1,31,6,No
+522593,Vamakshi Chhabra,55,Other,Dehri,Tamil Nadu,154625,105,5,3,1,5,"Sensors, Alarms",4697.53,39,1,2,37,98,No
+883719,Zilmil Baral,45,Female,Haldia,Telangana,29197,89,1,2,2,7,Locks,3887.27,20,16,5,3,95,No
+233815,Eesha Jain,48,Male,Jodhpur,Tamil Nadu,134273,27,1,2,0,1,"Cameras, Locks, Sensors",2232.94,50,16,5,45,56,Yes
+953183,Ekantika Som,37,Female,Aligarh,Manipur,85342,95,5,0,2,10,Cameras,4222.2,35,5,5,4,95,No
+928297,Chaman Chanda,53,Other,Junagadh,Punjab,164410,104,0,3,1,9,"Alarms, Sensors",3983.06,25,3,4,8,48,No
+540874,Yuvraj Garg,74,Female,Cuttack,Tripura,104177,101,0,2,1,9,Locks,3040.81,25,5,1,11,33,No
+256607,Tarak Deep,29,Male,Hyderabad,Nagaland,171579,31,3,1,2,6,"Alarms, Cameras, Sensors",547.19,47,2,1,25,84,Yes
+408133,Siddharth Bassi,61,Female,Sasaram,Karnataka,90253,47,3,2,1,10,Alarms,774.06,43,14,1,23,74,Yes
+348564,Kamya Ahluwalia,52,Male,Suryapet,Andhra Pradesh,36865,61,2,1,1,4,"Alarms, Locks",3313.11,11,13,4,5,93,No
+193804,Girindra Chaudhry,31,Male,Bidar,Rajasthan,64337,110,0,2,0,9,"Alarms, Doorbells",2830.74,1,7,0,2,49,No
+588363,Aishani Sehgal,61,Male,Chittoor,Arunachal Pradesh,52352,29,1,3,1,9,"Sensors, Locks",1467.26,12,7,3,3,90,Yes
+804864,Nakul Ravi,33,Other,Guntakal,West Bengal,44347,34,2,0,1,4,"Locks, Doorbells, Alarms",2094.12,42,6,4,12,46,Yes
+857093,Krisha Banerjee,46,Male,Visakhapatnam,Tamil Nadu,46282,68,3,2,1,9,Cameras,3439.44,38,10,2,37,81,No
+498202,Jagvi Mishra,19,Other,Alwar,Maharashtra,179584,96,0,0,0,2,Locks,3357.31,3,13,5,42,39,No
+180363,Gopal Sura,40,Female,Shahjahanpur,Tamil Nadu,149328,5,0,2,1,2,Alarms,1819.36,33,6,4,40,71,Yes
+460614,Samuel Prabhu,32,Other,Dehri,Odisha,136951,90,1,1,1,1,"Locks, Cameras, Doorbells",4229.94,29,9,2,16,5,No
+351453,Viraj Karnik,49,Other,Gwalior,Maharashtra,144692,30,0,1,1,7,"Sensors, Doorbells",3335.89,7,18,4,41,50,Yes
+880905,Samuel Lanka,59,Female,Bidhannagar,Goa,170531,53,4,0,0,7,"Alarms, Cameras, Locks",504.07,18,7,4,12,35,Yes
+593805,Chaitaly Savant,44,Male,Danapur,Haryana,136174,42,4,2,1,10,"Cameras, Alarms, Doorbells",2462.45,41,3,0,20,78,Yes
+290446,Nisha Choudhary,47,Male,Vadodara,Chhattisgarh,31015,98,4,0,2,1,"Cameras, Alarms",3683.3,18,10,3,2,42,No
+581033,Charan Nori,58,Female,Giridih,Sikkim,168859,96,0,1,1,8,Cameras,2797.46,40,2,1,28,29,No
+908271,Nirja Nazareth,66,Female,Giridih,Punjab,35077,31,0,2,0,3,"Sensors, Doorbells, Locks",2621.52,41,2,0,20,95,Yes
+973695,Oscar Nigam,54,Female,Mathura,Sikkim,183740,116,5,3,0,10,Alarms,3902.77,0,2,2,28,67,No
+368301,Chakradhar Sarma,22,Male,Rohtak,Bihar,87913,99,5,2,2,7,Doorbells,4385.25,18,14,1,0,43,No
+263581,Nimrat Nanda,53,Female,Jamshedpur,Maharashtra,129093,40,1,2,2,10,"Doorbells, Cameras, Alarms",3653.88,13,2,4,19,16,Yes
+922739,Anjali Suresh,61,Female,Mangalore,Maharashtra,68898,34,4,0,1,4,"Alarms, Sensors, Locks",4846.12,37,16,4,38,78,Yes
+736658,Bakhshi Pandey,75,Other,Kurnool,Tamil Nadu,50828,106,2,1,1,5,"Locks, Alarms",3014.95,4,20,5,0,85,No
+287783,Anthony Ravi,58,Male,Patiala,Tripura,169394,57,4,3,0,2,"Locks, Sensors",1537.18,4,3,3,6,57,No
+349238,Ayaan Choudhury,49,Female,Katihar,Mizoram,42876,96,1,2,1,9,Doorbells,1617.21,9,20,1,0,21,No
+927575,Aishani Banik,75,Other,Aizawl,Tripura,30016,28,5,3,1,1,"Alarms, Sensors, Cameras",2585.91,40,6,3,16,22,Yes
+789750,Nicholas Sachdev,66,Other,Kadapa,Uttarakhand,162466,15,1,2,0,6,Sensors,4610.5,6,16,2,48,28,Yes
+847237,Yochana Mallick,59,Other,Udupi,Chhattisgarh,184028,46,4,0,2,3,Alarms,3681.45,7,7,4,42,80,No
+787681,Triya Nori,54,Other,Alwar,Haryana,20934,87,0,0,0,10,"Cameras, Locks",4279.93,5,15,3,9,33,No
+355701,Ganga Setty,37,Other,Patna,Sikkim,133652,44,5,0,2,10,"Cameras, Doorbells",4143.07,33,1,5,17,34,Yes
+532395,Lakshmi Venkataraman,20,Male,Dehri,Chhattisgarh,93035,104,1,2,0,5,Alarms,1054.01,39,13,2,7,69,No
+932750,Mohini Bhalla,47,Male,Kanpur,Uttarakhand,194917,66,0,2,0,9,"Doorbells, Locks, Sensors",2469.65,5,12,3,17,87,No
+909678,Aashi Din,29,Male,Bhopal,Nagaland,78637,48,3,0,2,2,Sensors,1126.34,8,10,5,8,79,Yes
+621220,Nidra Agarwal,25,Male,Gurgaon,Nagaland,171693,102,5,2,0,5,Sensors,2636.61,17,14,3,9,57,No
+425286,Kai Sandal,63,Male,Durg,Maharashtra,106619,36,2,3,0,4,"Doorbells, Sensors, Locks",4182.46,12,14,5,44,57,No
+964951,Saumya Lall,36,Male,Parbhani,Manipur,162399,51,4,3,0,1,"Alarms, Doorbells, Locks",1736.01,29,14,1,0,18,Yes
+237525,Yochana Dave,61,Female,Jodhpur,Odisha,199674,61,1,0,1,4,"Alarms, Locks, Doorbells",3014.6,19,0,3,40,92,No
+580842,Sarthak Munshi,29,Other,Barasat,Meghalaya,180556,107,4,3,0,8,Doorbells,3562.32,5,19,2,25,87,No
+672203,Luke Rana,31,Female,Anantapur,Punjab,83311,116,1,3,2,4,"Cameras, Alarms",2173.19,7,12,5,18,50,No
+786931,Pallavi Setty,24,Male,Unnao,Gujarat,150210,6,5,0,2,6,"Doorbells, Cameras, Alarms",3830.98,7,2,3,35,69,Yes
+633440,Kashvi Kannan,50,Male,Bhavnagar,Arunachal Pradesh,86422,93,4,2,2,2,"Locks, Alarms",4512.52,13,8,4,35,80,No
+838794,Reva Ben,67,Female,Nellore,Karnataka,127078,34,1,0,2,9,Locks,948.37,1,11,3,3,56,Yes
+736924,Chavvi Tata,43,Female,Motihari,Haryana,59312,61,0,1,0,2,"Cameras, Alarms, Sensors",2630.21,43,16,2,15,40,No
+605339,Gayathri Kade,57,Other,Pune,Karnataka,196379,94,3,1,0,3,"Alarms, Locks, Cameras",3387.38,38,2,5,12,63,No
+897628,Jalsa Prakash,49,Female,Gurgaon,Assam,80575,25,5,3,2,10,"Sensors, Locks, Cameras",4221.36,32,3,0,7,30,Yes
+455733,Udyati Shroff,75,Female,Bhilwara,Maharashtra,186586,66,0,1,2,2,"Alarms, Sensors",961.91,11,13,0,39,40,No
+116483,Garima Sekhon,20,Female,Thane,Manipur,118649,12,5,0,1,8,Doorbells,1553.53,40,12,2,31,64,Yes
+208359,Devansh Tara,27,Female,Haridwar,Himachal Pradesh,93251,45,1,2,2,4,"Sensors, Locks, Doorbells",3567.6,24,14,4,48,92,No
+464341,Anthony Tiwari,60,Other,Sasaram,Jharkhand,192676,107,4,3,0,8,"Alarms, Locks",1978.08,43,5,1,49,88,No
+699931,Devansh Rai,27,Other,Dhule,Meghalaya,199901,63,0,2,1,5,"Locks, Sensors, Doorbells",897.92,24,7,2,22,95,No
+821791,Yasti Gola,49,Male,Rourkela,Mizoram,133871,75,5,2,1,5,"Alarms, Cameras",2541.26,18,7,5,33,7,No
+194895,Jagat Yohannan,24,Female,Anantapur,Sikkim,129356,48,1,1,0,7,"Doorbells, Alarms, Cameras",2699.77,40,18,1,44,71,No
+272827,Nathaniel Kashyap,75,Male,Mahbubnagar,Kerala,174930,41,1,1,2,10,Locks,4332.17,4,18,0,21,81,No
+527829,Naveen Mital,25,Male,Mira-Bhayandar,Bihar,23412,83,3,3,0,6,"Cameras, Sensors",1569.36,17,2,2,26,79,No
+571158,Dalbir Seth,73,Male,Begusarai,Arunachal Pradesh,102847,98,4,0,2,4,Doorbells,2461.63,45,17,4,38,9,No
+216538,Jagat Murty,49,Male,Bharatpur,Uttarakhand,118941,95,0,1,1,3,"Sensors, Doorbells",2149.85,15,1,1,7,22,No
+498898,Ranbir Bhatia,59,Female,Danapur,Nagaland,178481,17,3,1,0,1,"Sensors, Locks, Cameras",4196.34,29,19,1,13,50,Yes
+376157,Rishi Narang,53,Female,Buxar,Tripura,178680,110,3,1,2,2,"Sensors, Locks",2312.34,7,0,0,43,43,No
+803026,Lila Bhat,47,Male,Chinsurah,Manipur,184940,16,2,3,0,1,Locks,2728.3,44,2,1,28,74,Yes
+415616,Manya Dora,39,Male,Bhimavaram,Bihar,55021,84,1,2,0,10,"Doorbells, Sensors, Alarms",1138.44,45,6,5,30,4,No
+226844,Tanmayi Srinivas,70,Female,Sagar,Kerala,32916,35,0,1,0,6,"Cameras, Doorbells",3825.51,38,1,5,21,11,Yes
+974116,Neel Singh,23,Female,Srikakulam,Meghalaya,130300,13,1,1,2,3,Cameras,4595.7,49,16,5,32,42,Yes
+137086,Nikita Chaudhari,49,Male,Tiruppur,West Bengal,182819,117,3,3,2,5,"Cameras, Sensors, Alarms",4213.62,24,12,5,0,12,No
+922866,Falan Bansal,63,Female,Purnia,Gujarat,147859,90,1,1,0,8,"Sensors, Locks, Alarms",3922,8,9,1,19,33,No
+590123,Omaja Mangal,37,Other,Mirzapur,Sikkim,83072,111,1,0,2,8,"Sensors, Locks",1966.67,5,3,1,34,20,No
+819802,Jhalak Kant,54,Other,Raurkela Industrial Township,Odisha,93045,29,3,3,0,3,"Cameras, Alarms",2547.38,16,9,5,8,53,Yes
+674881,Vedika Sood,30,Other,Pondicherry,Rajasthan,116649,8,1,3,2,10,"Cameras, Locks",4327.25,38,9,3,23,17,Yes
+943058,Raagini Dewan,72,Male,Bikaner,Jharkhand,125326,55,5,2,0,3,Locks,3093.76,47,18,2,38,96,No
+420087,Oni Tripathi,73,Female,Alwar,Jharkhand,99334,69,4,1,1,6,Locks,4657.46,34,19,0,20,59,No
+532962,Matthew Mishra,56,Other,Nellore,Manipur,166849,105,2,0,1,7,Alarms,4454.28,15,11,1,2,35,No
+224338,Urvi Dasgupta,42,Other,Nellore,Mizoram,193487,102,2,0,1,2,"Sensors, Doorbells",2918.12,38,1,1,30,9,No
+287637,Henry Yogi,66,Male,Ongole,Meghalaya,153145,38,2,2,0,1,"Sensors, Locks",3408.37,26,18,2,26,69,Yes
+447643,Krish Nori,20,Female,Bokaro,Andhra Pradesh,153412,49,4,1,1,2,Sensors,731.91,50,12,2,6,99,Yes
+259710,Lakshmi Sule,53,Other,Dindigul,Uttar Pradesh,49885,20,4,3,1,1,"Sensors, Locks",2234.43,47,15,4,14,87,Yes
+175646,Saanvi Bail,47,Female,Chinsurah,Himachal Pradesh,140423,85,0,2,0,7,"Alarms, Sensors, Cameras",3265.44,41,19,4,29,26,No
+312310,Lekha Balan,25,Female,Pudukkottai,Karnataka,91159,69,5,3,1,5,"Sensors, Cameras, Doorbells",4423.48,39,14,1,36,33,No
+866755,Waida Srinivasan,72,Male,Nagpur,Jharkhand,139100,35,1,2,0,1,"Alarms, Cameras",3181.33,1,11,3,15,85,Yes
+794737,Tara Rajan,25,Male,Surendranagar Dudhrej,Himachal Pradesh,37209,84,4,3,0,2,"Doorbells, Cameras",2164.77,7,17,2,25,45,No
+780062,Sanaya Narain,29,Male,Ujjain,Chhattisgarh,170592,45,2,2,1,2,"Locks, Cameras",2747.73,35,5,5,34,72,Yes
+668446,Zashil Behl,59,Other,Ongole,Telangana,57721,16,0,0,1,9,"Alarms, Sensors, Doorbells",3062.58,4,13,0,18,32,Yes
+563694,Quincy Kara,66,Other,Tenali,Madhya Pradesh,53756,52,0,0,1,3,"Locks, Cameras",792.76,2,9,2,0,51,Yes
+425801,Nitara Talwar,62,Male,Latur,Sikkim,60705,24,0,1,2,4,"Doorbells, Alarms, Sensors",2027.73,27,10,4,3,22,Yes
+470858,Urvi Varma,55,Male,Fatehpur,Uttarakhand,122820,99,0,3,2,1,"Locks, Cameras",1137.59,0,9,2,18,61,No
+800407,Yatan Memon,70,Female,Kanpur,Karnataka,90852,25,0,3,1,8,Alarms,637.43,41,11,5,6,37,Yes
+353858,Karan Dyal,60,Female,Kottayam,Manipur,151371,102,2,0,1,1,"Locks, Alarms",3001.42,5,3,4,44,93,No
+499947,Harinakshi Bora,31,Male,Surendranagar Dudhrej,Meghalaya,136548,6,3,3,2,6,Doorbells,2396.88,24,3,1,9,93,Yes
+411434,Zinal Chopra,74,Male,Ghaziabad,Tamil Nadu,20677,99,4,3,2,5,Locks,1260.87,29,18,4,43,37,No
+926917,Henry Thakur,55,Other,Lucknow,Tamil Nadu,151405,80,4,1,1,7,Doorbells,2884.58,28,7,3,38,28,No
+780653,Gaurang Kapadia,21,Male,Amritsar,Haryana,122862,17,3,1,2,8,Cameras,2816.55,8,10,0,21,78,Yes
+399234,Anjali Barad,46,Male,Sagar,Kerala,189504,18,5,1,0,7,"Cameras, Doorbells",3114.64,0,17,1,42,91,Yes
+127323,Oscar Goswami,72,Male,Naihati,Odisha,126895,107,5,2,0,9,"Doorbells, Sensors",1392.68,0,2,5,19,0,No
+140265,Shivansh Rajagopal,54,Female,Tenali,Punjab,103620,76,4,1,1,6,"Sensors, Cameras",1828.14,17,17,3,49,10,No
+222066,Timothy Sampath,67,Other,Rajpur Sonarpur,Madhya Pradesh,126903,21,5,0,0,2,"Alarms, Locks",4898.92,32,17,4,47,47,Yes
+178062,Jagat Savant,67,Female,Bijapur,Punjab,145093,83,4,2,2,1,Locks,2114.98,11,2,0,27,92,No
+766781,Shivani Mukherjee,26,Other,Gudivada,Uttar Pradesh,144431,116,5,0,2,4,Locks,4588.42,15,15,1,39,40,No
+780635,Watika Deo,51,Male,Siwan,Goa,166058,100,2,2,1,10,Alarms,1502.93,22,18,3,17,30,No
+486711,Samuel Prashad,35,Other,Morbi,Jharkhand,177569,85,0,0,2,1,"Locks, Doorbells, Sensors",2805.6,8,5,5,7,17,No
+230593,Omisha Nagy,74,Other,Jaipur,Uttarakhand,194100,50,0,3,0,6,"Sensors, Locks",4271.83,24,10,1,9,0,Yes
+937401,Noah Wason,25,Female,Vijayanagaram,Maharashtra,134003,5,2,1,1,2,"Alarms, Doorbells",3965.99,44,16,1,36,29,Yes
+939577,Shaurya Lad,19,Female,Katni,Kerala,173015,43,0,0,2,1,Locks,2524.31,27,2,2,41,45,No
+702090,Harish Baral,50,Male,Mau,Assam,91444,99,3,1,2,8,"Sensors, Locks",2563.22,18,1,0,7,5,No
+843620,Ayush Lata,37,Male,Gulbarga,Bihar,186490,47,3,3,1,1,"Alarms, Cameras",1787.08,25,20,4,26,36,Yes
+707138,Janya Goda,21,Other,Karaikudi,Punjab,193298,36,4,2,1,2,Cameras,3031.16,18,8,0,14,15,Yes
+362090,Upasna Baria,55,Female,Indore,Odisha,182975,100,0,3,0,2,"Cameras, Sensors",4194.74,22,3,4,22,73,No
+948148,Barkha Sen,58,Other,Ranchi,Bihar,98108,29,3,2,1,7,Locks,2370.04,2,11,2,22,55,Yes
+126541,Kiaan Parmer,39,Male,Kalyan-Dombivli,Tripura,48777,99,5,2,2,5,Cameras,1201.16,22,20,5,31,58,No
+160313,Forum Sidhu,67,Male,Ghaziabad,Manipur,76142,117,1,0,0,4,"Doorbells, Cameras",2832.37,7,15,3,42,81,No
+983695,Aashi Kulkarni,43,Male,Patiala,Uttarakhand,22532,76,4,1,0,6,"Doorbells, Locks",1949.18,27,6,1,24,10,No
+903666,Watika Shetty,44,Female,Naihati,Himachal Pradesh,148976,108,3,3,1,4,Sensors,1344.2,31,10,1,29,45,No
+106989,Teerth Rajagopal,40,Male,Vellore,Chhattisgarh,106189,2,1,0,2,5,"Cameras, Alarms, Doorbells",1444.99,26,6,2,17,70,Yes
+786526,Chameli Kalita,67,Male,Nandyal,Jharkhand,145655,9,3,1,1,8,"Sensors, Locks",4068.81,46,7,2,12,34,Yes
+578535,Damini Hegde,56,Female,Ujjain,Himachal Pradesh,129829,57,4,3,1,10,"Cameras, Sensors",4761.16,23,17,2,28,26,No
+951717,Imaran Chowdhury,60,Other,Kurnool,Haryana,169424,116,2,2,2,3,"Doorbells, Alarms",3316.61,26,4,2,0,7,No
+487404,Janaki Butala,35,Other,Nizamabad,Karnataka,40420,9,0,2,1,10,Alarms,4705.34,1,13,1,11,30,Yes
+684134,Shravya Bassi,26,Male,Secunderabad,Tripura,89266,47,3,1,2,4,"Cameras, Doorbells",4332.64,27,1,0,27,10,No
+591891,Chaitaly Ahuja,45,Female,Pimpri-Chinchwad,Jharkhand,193046,34,1,2,0,1,"Cameras, Doorbells",1700.29,0,5,1,47,1,No
+781276,Raagini Bala,51,Male,Singrauli,Nagaland,156837,33,3,0,0,9,"Locks, Cameras, Doorbells",4586.39,29,20,3,13,48,Yes
+429544,Yochana Rajagopalan,24,Female,Amravati,Kerala,199478,105,0,2,2,1,Alarms,3659.24,23,9,1,3,24,No
+578195,Rohan Varma,73,Female,Jalandhar,Arunachal Pradesh,144682,10,4,3,1,9,"Cameras, Alarms, Doorbells",2992.06,24,18,2,41,77,Yes
+207325,Ishanvi Choudhury,60,Female,Tirunelveli,Uttarakhand,41318,94,4,1,1,7,"Alarms, Locks",1888.36,11,12,5,47,88,No
+727868,Daksh Kibe,59,Female,Jalandhar,Madhya Pradesh,53285,99,3,2,2,9,Sensors,4692.07,16,6,1,12,20,No
+818073,Kashish Warrior,70,Female,Kharagpur,Arunachal Pradesh,110146,38,4,3,0,5,Alarms,4528.02,31,6,3,19,55,Yes
+378612,Jonathan Joshi,43,Other,Khammam,Jharkhand,120771,83,2,3,1,8,Locks,1856.78,11,15,1,1,64,No
+722513,Laksh Narayan,43,Male,Alwar,Chhattisgarh,71775,11,5,2,1,5,Alarms,2730.61,30,13,5,16,78,Yes
+317146,Anusha Pandya,35,Female,Rajpur Sonarpur,Haryana,198158,25,4,1,0,9,"Sensors, Locks, Cameras",4435.3,22,1,0,41,75,Yes
+797687,Aadi Sastry,19,Female,Pimpri-Chinchwad,Andhra Pradesh,191728,56,4,1,2,2,Alarms,2457.49,48,9,2,16,44,Yes
+276830,Zansi Deshpande,62,Female,Tumkur,Mizoram,110235,101,1,1,2,3,"Sensors, Alarms",1469.03,39,3,3,7,95,No
+966151,Christopher Vyas,24,Other,Bhatpara,Telangana,71649,114,4,3,1,5,Alarms,3037.06,7,17,1,29,79,No
+615778,Vedhika Kota,49,Male,Proddatur,Nagaland,123442,56,3,1,2,4,"Doorbells, Cameras, Sensors",3856.02,5,6,1,18,43,No
+347154,Vamakshi Singh,28,Female,Dharmavaram,Jharkhand,156609,57,2,0,0,5,"Doorbells, Alarms",1537.84,25,11,0,21,97,No
+852448,Bhavna Kalita,32,Other,Amaravati,Odisha,41121,9,3,0,0,3,"Locks, Alarms",1351.21,31,2,1,37,41,Yes
+903451,Lakshmi Saini,21,Male,Amritsar,Odisha,118619,85,4,2,1,10,"Locks, Cameras",3575.49,29,19,5,39,19,No
+481480,Praneel Mahajan,47,Female,Mirzapur,Goa,35803,61,1,1,2,7,Doorbells,740.43,16,15,0,19,22,No
+313189,Veda Bhalla,28,Other,Motihari,Manipur,34198,27,5,1,0,7,"Alarms, Doorbells",2175.5,5,19,3,18,45,Yes
+205042,Oni Kadakia,29,Male,Medininagar,Tamil Nadu,49651,81,1,0,1,10,Alarms,3531.34,8,4,2,32,80,No
+911577,Azad Bava,55,Other,Bhiwani,Jharkhand,189007,64,1,0,0,2,"Doorbells, Locks, Alarms",1568.36,46,20,2,25,91,No
+910388,Upkaar Mandal,64,Female,Pune,Odisha,157810,117,0,1,1,4,Cameras,1579.19,37,7,1,50,71,No
+494766,Fariq Sane,53,Male,Jorhat,Himachal Pradesh,72522,108,0,1,1,8,"Sensors, Alarms",4663.44,27,18,3,37,2,No
+966636,Ekalinga Agarwal,72,Male,Jalna,Assam,175941,53,2,0,1,9,Cameras,537.14,23,0,2,14,4,Yes
+551934,Deepa Vaidya,74,Male,Anantapur,Tamil Nadu,111463,95,4,3,0,7,"Locks, Cameras, Alarms",4585.72,20,4,4,4,61,No
+133289,Abdul Sandhu,71,Male,Begusarai,Assam,138667,12,3,1,2,8,Doorbells,2356.89,45,1,1,18,73,Yes
+772588,Vedhika Mahajan,50,Female,Phagwara,Tamil Nadu,99229,113,2,1,2,5,"Alarms, Sensors",2987.46,48,12,4,1,66,No
+165875,Indira Chauhan,60,Female,Siwan,Meghalaya,141241,98,5,0,2,2,"Sensors, Locks, Alarms",3209.32,46,8,0,15,75,No
+807532,Hemal Roy,60,Male,Satara,Maharashtra,123963,68,3,3,1,10,"Alarms, Locks, Sensors",1098.99,41,10,4,33,5,No
+368949,Widisha Parekh,70,Male,Bilaspur,Karnataka,86638,26,1,3,1,5,"Locks, Alarms, Sensors",1083.57,10,20,1,3,95,Yes
+937596,Madhavi Parsa,54,Male,Tiruvottiyur,Uttar Pradesh,58428,16,3,3,1,9,Sensors,1974.88,41,20,3,42,99,Yes
+301682,David Kota,18,Male,Parbhani,Gujarat,135834,60,5,1,1,2,"Sensors, Doorbells, Locks",3711.66,6,5,5,46,48,No
+355024,Charles Purohit,57,Male,New Delhi,Arunachal Pradesh,20089,98,3,0,0,1,"Alarms, Locks",1414.79,40,3,3,47,26,No
+586137,Ekbal More,26,Male,Jaunpur,Haryana,49751,33,4,0,2,4,Cameras,4699.32,12,6,0,30,78,Yes
+948539,Liam Yadav,22,Other,Tezpur,Andhra Pradesh,64456,116,0,2,1,8,"Alarms, Locks, Doorbells",3226.83,23,14,4,12,25,No
+977022,Chatresh Patel,19,Male,Bareilly,West Bengal,198812,92,4,2,0,2,"Cameras, Sensors",1037.74,29,19,4,38,62,No
+643487,Warjas Palla,34,Female,Jamnagar,Andhra Pradesh,167513,29,2,1,0,7,"Alarms, Cameras",2589.41,15,2,4,6,17,Yes
+723524,Netra Kuruvilla,40,Male,Bidhannagar,Kerala,95040,54,1,1,1,7,"Cameras, Sensors, Locks",2872.95,46,15,4,15,35,Yes
+920063,Tarak Borra,43,Other,Panvel,Madhya Pradesh,38358,103,0,0,0,7,Sensors,3102.35,9,11,2,42,45,No
+284481,Logan Solanki,23,Female,Katni,Rajasthan,50738,1,2,3,0,7,"Sensors, Doorbells",4549.14,18,3,2,38,91,Yes
+228884,Balendra Shan,60,Male,Sirsa,Manipur,89265,64,0,0,1,6,"Cameras, Alarms, Sensors",1594.13,30,0,1,44,57,No
+216088,Qarin Basak,43,Other,Delhi,Punjab,106252,42,1,2,2,5,"Alarms, Cameras, Sensors",3808.45,38,4,1,41,61,No
+471587,Devika Bail,25,Male,Nanded,Meghalaya,32335,71,1,2,1,9,Cameras,2033.74,44,11,4,5,10,No
+800502,Suhani Ratti,26,Male,Madurai,Meghalaya,119050,53,4,0,2,3,"Sensors, Alarms",1082.26,46,16,1,23,22,Yes
+613965,Yochana Muni,59,Other,Salem,Tripura,29302,25,4,1,0,3,Cameras,3580.59,9,3,0,19,50,Yes
+152000,Bhavika Hans,63,Female,Delhi,Himachal Pradesh,84409,85,2,3,0,1,"Alarms, Cameras, Doorbells",4568.15,16,19,2,50,22,No
+221584,Saumya Bajwa,64,Female,Bidar,Sikkim,60538,117,5,1,1,3,"Alarms, Sensors, Locks",3360.52,33,5,0,46,94,No
+627484,Vritti Golla,49,Female,Anantapur,Gujarat,99452,97,4,1,2,10,"Sensors, Locks",4956.41,0,18,1,15,12,No
+453297,Hamsini Gala,61,Other,Loni,Tamil Nadu,135517,113,5,3,1,9,"Alarms, Sensors, Doorbells",2665.76,6,4,1,6,42,No
+566240,Rajata Karpe,61,Other,Siwan,Karnataka,195127,81,2,1,1,8,"Doorbells, Alarms",4708.44,50,12,5,44,12,No
+340076,Edhitha Bora,60,Female,Bellary,Meghalaya,59836,38,1,3,2,7,"Doorbells, Cameras, Alarms",662.32,40,6,5,26,17,Yes
+135236,Abhiram Krishna,75,Female,Bilaspur,Manipur,29773,93,1,0,2,8,"Doorbells, Sensors, Locks",3537.2,29,2,1,32,59,No
+474114,Wazir Shan,70,Other,Morena,Chhattisgarh,114911,66,2,3,1,2,"Doorbells, Locks",983.81,40,3,1,47,82,No
+733936,Lakshmi Sarma,24,Female,Bhubaneswar,Assam,182667,89,4,3,2,10,Locks,872.56,18,3,4,30,47,No
+580615,Faraj Bakshi,75,Female,Hazaribagh,Manipur,169117,89,5,2,2,1,"Cameras, Sensors",2337.13,6,6,2,2,97,No
+972671,Lopa Sankaran,57,Male,Panihati,Nagaland,152662,65,0,2,2,8,"Locks, Doorbells",2107.73,46,11,4,43,95,No
+914482,Zinal Bava,54,Male,Machilipatnam,Jharkhand,73466,106,0,2,1,6,"Doorbells, Locks, Alarms",1892.92,16,14,4,40,45,No
+762482,Jyoti Joshi,62,Male,Mahbubnagar,West Bengal,151230,113,4,0,0,5,"Locks, Sensors",1425.9,15,9,5,25,2,No
+330213,Harini Sehgal,60,Female,Miryalaguda,Manipur,79636,31,1,1,0,2,Alarms,3673.9,50,13,0,29,40,Yes
+882944,Vihaan Manne,73,Male,Sikar,Sikkim,52290,108,3,0,1,5,"Sensors, Alarms",718.04,1,7,5,19,87,No
+690404,Krisha Sengupta,62,Female,Hindupur,Chhattisgarh,165125,43,5,2,2,2,Locks,2826.72,45,20,1,7,56,Yes
+563879,Jalsa Gade,57,Other,Jodhpur,Haryana,109304,100,3,3,1,2,"Cameras, Alarms, Doorbells",4189.36,6,4,1,47,93,No
+185895,Siddharth Oommen,20,Male,Vellore,Haryana,198135,74,3,3,2,2,"Sensors, Doorbells",3025.16,14,7,5,26,68,No
+863116,Yochana Sachdeva,61,Other,Mango,Tripura,140940,38,3,0,2,9,Sensors,928.16,16,8,3,13,55,Yes
+529554,Charvi Iyer,40,Female,Nagaon,Andhra Pradesh,163174,88,3,3,2,6,"Doorbells, Alarms",3970.26,47,7,4,20,37,No
+965126,Ati Bhandari,42,Other,Karnal,Jharkhand,76851,103,2,0,2,2,"Sensors, Alarms",3197.19,23,18,4,43,1,No
+763592,Chakradhar Varma,35,Other,Jalna,Andhra Pradesh,157649,62,0,0,2,10,"Doorbells, Cameras, Locks",4492.39,31,20,3,29,74,No
+169874,Abha Goel,46,Female,Morena,Gujarat,179665,84,0,0,1,8,"Sensors, Alarms",1212.93,9,8,5,4,96,No
+628772,Hredhaan Bansal,32,Female,Kottayam,Tripura,53222,39,0,2,1,9,"Cameras, Locks, Alarms",3804.81,34,13,4,39,51,Yes
+250500,Ridhi Bhandari,51,Other,Noida,Assam,181439,25,4,3,2,7,Doorbells,1765.18,43,20,2,18,78,Yes
+176457,Chaaya Memon,30,Male,Kishanganj,Arunachal Pradesh,190012,15,1,0,0,6,Sensors,767.7,47,0,4,21,54,Yes
+945491,Vivaan Srinivasan,49,Female,Dehradun,Goa,156948,71,4,1,1,6,Sensors,3866.3,41,11,5,30,72,No
+837810,Qarin Sampath,40,Other,Bardhaman,Kerala,161407,89,0,3,1,8,"Cameras, Doorbells, Sensors",4901.72,20,20,4,35,64,No
+670037,Advik Rao,50,Other,Sambhal,Madhya Pradesh,47230,43,1,1,1,9,Alarms,1364.62,6,15,1,12,50,Yes
+649204,Abhimanyu Toor,31,Male,Amaravati,Chhattisgarh,68300,52,3,2,1,8,"Cameras, Locks, Sensors",953.37,2,10,3,31,23,No
+581935,Falguni Lata,68,Other,Medininagar,Assam,113039,99,2,0,1,3,Cameras,2392.54,6,9,0,8,89,No
+506403,Pushti Tara,74,Other,Bhopal,Karnataka,101261,107,3,2,2,6,"Sensors, Alarms, Doorbells",4979.27,7,10,4,38,4,No
+201636,Balvan Lata,73,Other,Dhule,Kerala,156746,22,4,2,0,4,"Locks, Doorbells, Alarms",3962.12,26,8,2,17,94,Yes
+292555,Harini Aurora,64,Female,Katihar,Uttar Pradesh,60268,58,0,0,1,1,"Locks, Alarms, Sensors",2810.73,43,12,1,20,4,No
+250503,Yashodhara Bains,69,Other,Kakinada,Assam,92411,39,2,2,2,5,Sensors,1930.27,0,7,4,49,19,No
+732203,Guneet Savant,22,Female,Ujjain,Himachal Pradesh,158015,3,3,3,0,3,Alarms,4412.29,35,19,0,35,48,Yes
+383027,Ekiya Sama,39,Male,Allahabad,Kerala,113166,108,4,0,2,3,"Sensors, Alarms, Locks",591.8,9,15,0,28,67,No
+470370,Nidhi Modi,39,Female,Giridih,Tripura,190720,31,5,0,2,8,Sensors,2710.76,33,15,1,0,28,Yes
+438107,Idika Arora,58,Male,Agra,Sikkim,34232,104,5,3,2,1,"Cameras, Doorbells",3974.3,28,6,5,4,55,No
+489669,Yasti Wable,56,Male,Naihati,Punjab,155057,28,4,0,0,3,Cameras,4308.8,25,0,1,16,75,Yes
+796762,Keya Uppal,74,Male,Gwalior,Rajasthan,153111,113,1,2,1,4,"Locks, Sensors, Doorbells",1447.59,46,16,4,1,38,No
+172570,Ansh Subramanian,70,Male,Imphal,West Bengal,56313,7,5,3,0,1,"Alarms, Cameras, Doorbells",4920.25,36,16,4,50,22,Yes
+570678,Sara Sodhi,37,Other,Ranchi,Sikkim,79896,27,5,3,1,10,Locks,2534.22,39,0,5,7,28,Yes
+837429,Bhavini Tata,59,Other,Vellore,Meghalaya,152906,25,3,1,1,7,"Cameras, Sensors, Alarms",2678.64,2,0,4,21,5,Yes
+352417,Ishanvi Sidhu,48,Female,Fatehpur,Tripura,79273,21,0,1,2,2,"Locks, Sensors",3942.46,33,0,0,48,30,Yes
+929822,Wridesh Peri,19,Male,Dehri,Assam,139080,18,3,3,0,7,Cameras,2782.97,50,18,3,0,50,Yes
+279074,Warhi Banik,26,Female,Thiruvananthapuram,Goa,71324,7,1,0,0,10,Doorbells,623.3,17,17,1,30,98,Yes
+625084,Yuvraj Venkatesh,50,Male,Gopalpur,Haryana,98125,91,0,1,2,7,"Locks, Sensors",2196.61,6,12,3,46,31,No
+799510,Viraj Chana,67,Male,Sonipat,Gujarat,180634,100,4,0,1,1,Cameras,1718.62,21,0,4,24,22,No
+917992,Varsha Johal,71,Male,Hindupur,Uttar Pradesh,172574,75,3,2,1,2,"Locks, Doorbells",3516.05,13,10,1,27,50,No
+591582,Harish Kibe,23,Female,Srinagar,West Bengal,75650,16,2,3,2,9,"Sensors, Doorbells",2357.04,15,7,2,47,88,Yes
+500026,Fitan Majumdar,70,Other,Kurnool,Nagaland,67284,66,4,1,0,4,"Cameras, Doorbells, Alarms",4527.87,12,6,5,18,25,No
+614615,Gaurika Choudhry,56,Male,Berhampur,Nagaland,187591,32,5,2,0,7,"Locks, Alarms, Doorbells",4133.82,28,11,4,50,29,Yes
+426539,Samuel Hari,62,Male,Mango,Arunachal Pradesh,109239,36,4,3,0,5,Cameras,4786.07,30,4,5,28,2,Yes
+954974,Peter Naik,67,Male,Nangloi Jat,Himachal Pradesh,100090,1,3,1,1,3,"Cameras, Doorbells, Locks",1771.61,10,10,2,28,71,Yes
+788920,Jyoti Chauhan,50,Male,Bahraich,Manipur,111510,65,4,1,2,9,Sensors,1539.61,23,13,2,21,94,No
+314981,George Gaba,73,Female,Adoni,Uttarakhand,136696,75,1,3,2,4,"Alarms, Sensors, Cameras",1325.64,24,1,5,3,79,No
+425218,Arjun Pandey,43,Female,Ghaziabad,Madhya Pradesh,25539,3,4,2,2,10,"Alarms, Locks, Doorbells",2537.07,49,13,1,3,83,Yes
+322310,Om Dixit,59,Other,Nashik,Nagaland,168355,1,4,0,0,4,"Locks, Cameras, Doorbells",3207.02,5,10,4,2,21,Yes
+669917,Nicholas Walia,27,Other,Bhusawal,Telangana,195483,12,1,2,1,10,"Locks, Alarms",4398.64,23,14,5,30,47,Yes
+205465,Krishna Kapur,62,Male,Vadodara,Nagaland,44658,65,4,2,2,4,Sensors,618.68,21,9,5,48,59,No
+488688,Chanchal Sankar,27,Other,Aligarh,Sikkim,119486,72,0,3,1,9,"Cameras, Locks",3732.16,41,0,2,21,37,No
+992581,Triveni Shah,29,Male,Bhimavaram,Arunachal Pradesh,182141,14,4,0,0,7,"Alarms, Sensors",3109.38,38,11,1,33,22,Yes
+150257,Kiaan Madan,60,Female,Parbhani,Gujarat,170920,100,1,3,2,5,"Locks, Sensors",948.96,10,18,1,23,63,No
+497923,Eiravati Choudhary,31,Female,Gurgaon,Arunachal Pradesh,185091,19,2,3,1,8,"Locks, Sensors",649.38,18,9,2,29,83,Yes
+604480,Udant Mistry,70,Other,Panipat,Goa,44746,29,4,2,2,2,Locks,3245.22,3,20,2,7,62,Yes
+162815,Warhi Barman,68,Male,Sri Ganganagar,Karnataka,166010,21,1,0,1,7,"Alarms, Locks",2278.99,24,13,3,34,28,Yes
+799958,Matthew Chada,40,Female,Kanpur,Andhra Pradesh,144639,118,5,1,1,1,Locks,2742.36,7,16,1,50,22,No
+331300,Pushti Seth,25,Male,Bhiwandi,Andhra Pradesh,139897,57,5,3,1,8,"Doorbells, Alarms, Sensors",653.36,40,5,2,0,34,Yes
+826102,Nikita Keer,70,Male,Sikar,Jharkhand,168404,10,0,1,1,4,"Alarms, Locks",2255.89,39,5,5,19,18,Yes
+929331,Bhavya Garg,20,Female,Giridih,Punjab,162710,62,1,3,1,7,Alarms,993.9,11,15,3,18,99,No
+973932,Nakul Salvi,29,Female,Firozabad,Gujarat,52090,69,2,3,0,10,"Alarms, Locks, Sensors",767.19,36,4,1,34,97,No
+876447,Harish Naik,75,Other,Kalyan-Dombivli,Jharkhand,186108,103,3,0,2,3,"Alarms, Locks, Sensors",1512.17,43,10,5,3,22,No
+866968,Hritik Borah,59,Female,Nadiad,Gujarat,195392,48,2,0,1,8,"Locks, Alarms",1786.39,12,12,2,9,86,Yes
+126459,Arjun Golla,42,Other,Ongole,Mizoram,121753,4,2,1,2,5,"Alarms, Sensors",3726.92,44,11,5,43,78,Yes
+337719,Xalak Acharya,41,Other,Muzaffarnagar,Goa,150946,64,2,0,0,2,"Alarms, Cameras",802.2,30,3,2,31,81,No
+807827,Aditya Dubey,31,Other,Guntakal,Tripura,61706,58,1,2,0,4,"Alarms, Locks, Sensors",550.89,50,8,1,5,55,Yes
+241703,Vedant Acharya,30,Other,Sikar,Madhya Pradesh,91070,89,3,2,0,3,"Doorbells, Sensors",4524.02,14,3,1,42,57,No
+111880,Yashvi Narula,69,Female,Siliguri,Haryana,23487,70,0,1,2,1,"Cameras, Alarms",1752.83,20,11,5,8,88,No
+531696,Nakul Walla,66,Female,Kamarhati,Sikkim,140983,20,3,0,2,1,Sensors,2889.66,16,16,0,23,57,Yes
+245544,Brinda Dua,73,Female,Hazaribagh,Chhattisgarh,189979,109,5,2,0,9,"Locks, Cameras, Sensors",3507.94,48,19,2,24,47,No
+385487,Ucchal Ranganathan,30,Female,Tirunelveli,Meghalaya,44541,94,5,1,0,6,"Sensors, Cameras",1080.72,27,1,1,33,52,No
+677357,Sara Boase,71,Female,Dehri,Bihar,196784,41,5,0,0,1,"Sensors, Alarms",3313.6,6,1,0,27,5,No
+724640,Kalpit Bhakta,28,Other,Jaunpur,Sikkim,182154,54,4,0,2,9,Doorbells,3254.67,11,8,4,49,4,No
+643705,Bimala Batra,50,Female,Cuttack,Manipur,157748,77,2,2,0,7,"Locks, Sensors, Alarms",2597.27,5,15,5,21,41,No
+234828,Kabir Chana,61,Other,Naihati,Rajasthan,127632,101,2,3,1,3,"Alarms, Doorbells, Cameras",2864.67,2,9,3,8,77,No
+956590,Kavya Sidhu,74,Male,Aligarh,Himachal Pradesh,88205,94,1,3,1,10,"Sensors, Alarms",1469.53,37,7,3,41,62,No
+881714,Chandran Dar,36,Other,Kalyan-Dombivli,Uttarakhand,44293,102,3,0,0,4,"Cameras, Alarms",2263.46,37,16,1,5,71,No
+905788,Anirudh Tripathi,55,Female,Surendranagar Dudhrej,Manipur,20243,116,2,0,0,3,"Sensors, Cameras, Locks",3105.46,13,2,5,21,52,No
+536594,Dalbir Tak,36,Male,Darbhanga,Tamil Nadu,63902,39,3,3,2,1,"Doorbells, Sensors, Alarms",2901.02,49,8,1,37,54,Yes
+482269,Devansh Bal,39,Other,Bharatpur,Manipur,96470,112,3,0,0,7,"Cameras, Alarms, Doorbells",3334.53,23,11,1,6,68,No
+445445,Pranav Bera,18,Female,Silchar,Himachal Pradesh,176258,25,4,3,0,10,"Cameras, Doorbells",1356.67,23,18,1,44,32,Yes
+303149,Anya Pant,45,Other,Hubli–Dharwad,Uttarakhand,167596,105,4,0,2,7,"Cameras, Sensors",3242.5,41,10,5,19,21,No
+182197,Nicholas Kalita,60,Female,Tiruppur,Maharashtra,106519,67,3,2,1,7,Cameras,952.61,22,16,5,41,70,No
+872645,Nathaniel Bhatia,25,Female,Avadi,Maharashtra,188046,117,3,2,2,3,"Doorbells, Alarms, Sensors",813.14,38,3,4,28,18,No
+871300,Irya Dewan,31,Female,Hosur,Kerala,166613,33,2,3,0,6,Doorbells,3670.98,19,6,0,10,31,Yes
+481472,Balvan Kohli,38,Female,Katni,Meghalaya,96844,13,1,0,2,7,Alarms,844.06,23,19,2,34,15,Yes
+958114,Ishani Mall,61,Other,Ongole,Uttar Pradesh,169529,82,1,3,0,9,"Sensors, Doorbells, Alarms",1261.87,10,15,1,40,10,No
+773180,Suhani Bhasin,35,Male,Raurkela Industrial Township,Kerala,77807,29,2,1,1,9,"Cameras, Sensors",4307.39,1,10,4,20,33,Yes
+325876,Samaksh Anand,36,Male,Bhilwara,Maharashtra,163368,83,4,0,2,8,"Cameras, Locks",2314.9,45,2,5,8,40,No
+168753,Utkarsh Badal,75,Other,Bhalswa Jahangir Pur,Uttarakhand,102481,48,2,0,0,10,Doorbells,4032.72,30,1,1,33,68,No
+475259,Samesh Upadhyay,53,Other,Jehanabad,Odisha,49501,17,1,3,0,7,"Doorbells, Cameras, Locks",4808.55,42,17,4,35,48,Yes
+401474,Vincent Sarma,42,Female,Tenali,Rajasthan,104455,74,4,3,2,3,"Locks, Cameras, Doorbells",973.96,10,17,5,36,65,No
+526941,Fariq Dugal,23,Male,Hapur,Assam,149343,113,4,2,1,7,Sensors,4950.04,1,6,5,36,22,No
+255083,Finn Khanna,49,Other,Raiganj,Bihar,64440,91,2,3,0,8,Locks,3804.76,21,11,3,40,49,No
+612638,Jackson Sani,52,Female,Chennai,Maharashtra,139772,1,4,1,2,1,"Alarms, Sensors, Doorbells",4076.73,50,15,1,2,23,Yes
+348304,Upasna Keer,18,Other,Noida,Jharkhand,137326,19,4,1,2,2,"Alarms, Doorbells",2018.72,25,18,3,37,4,Yes
+639162,Jyoti Guha,47,Other,Panihati,Odisha,182948,86,3,3,0,2,"Doorbells, Alarms, Locks",4872.66,50,4,5,29,23,No
+809175,Ekapad Bumb,23,Male,Aizawl,Jharkhand,21392,37,3,1,2,9,Locks,3488.8,4,0,3,22,15,Yes
+672007,Bhavya Chander,61,Other,Madanapalle,Kerala,110751,38,4,3,2,5,Alarms,2314.55,35,9,4,39,20,Yes
+785058,Zayan Chana,39,Male,Rampur,Sikkim,157909,83,4,0,1,1,"Sensors, Doorbells",3881.42,26,13,4,34,87,No
+616620,Timothy Patla,72,Male,Tiruchirappalli,Manipur,126959,56,0,3,2,1,"Cameras, Doorbells",3794.42,24,20,0,40,99,No
+908351,Zayyan Din,52,Male,Cuttack,Manipur,178009,6,0,3,2,3,"Locks, Sensors, Alarms",4320.95,38,13,4,22,23,Yes
+922630,Finn Banik,45,Female,Jalandhar,Rajasthan,152198,2,1,0,0,10,Cameras,4840.36,47,1,0,8,89,Yes
+207869,Vansha Mital,33,Female,Gwalior,Tripura,60910,101,4,2,1,3,Locks,2211.79,42,17,1,47,67,No
+585339,Ekbal Deshpande,66,Other,Firozabad,Meghalaya,53001,48,1,3,1,6,Doorbells,2755.66,39,6,4,33,71,Yes
+957734,Devika Garde,49,Female,Bettiah,Assam,21027,4,1,3,0,7,"Locks, Sensors",1630.02,10,17,5,36,3,Yes
+169407,Patrick Badal,36,Male,Khammam,Gujarat,67349,64,3,0,2,1,Locks,599.23,49,4,1,2,75,Yes
