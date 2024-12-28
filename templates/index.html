@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Customer Attrition Prediction</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+    <style>
+        body {
+            padding: 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+        }
+        .table-container {
+            margin-top: 20px;
+        }
+        .prediction-container {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 class="text-center">Customer Attrition Prediction Dashboard</h2>
+        <form action="/predict" method="post" class="form-inline justify-content-center">
+            <div class="form-group mb-2">
+                <label for="customer_id" class="sr-only">Enter Customer ID:</label>
+                <input type="number" id="customer_id" name="customer_id" class="form-control" placeholder="Enter Customer ID" required>
+            </div>
+            <button type="submit" class="btn btn-primary mb-2">Predict</button>
+        </form>
+        {% if prediction_text %}
+            <div class="alert alert-info text-center prediction-container">
+                <h3>{{ prediction_text }}</h3>
+            </div>
+        {% endif %}
+        <div id="customer-details" class="prediction-container">
+            {% if customer_details %}
+                <h4>Customer Details:</h4>
+                <ul>
+                {% for key, value in customer_details.items() %}
+                    <li><b>{{ key }}</b>: {{ value }}</li>
+                {% endfor %}
+                </ul>
+            {% endif %}
+        </div>
+        <div id="explanation" class="prediction-container">
+            {% if explanation_text %}
+                <h4>Reason for Prediction:</h4>
+                <p>{{ explanation_text|safe }}</p>
+            {% endif %}
+        </div>
+        <div class="table-container">
+            <table class="table table-striped table-hover">
+                <thead class="thead-dark">
+                    <tr>
+                        {% for col in customer_data[0].keys() %}
+                            <th>{{ col }}</th>
+                        {% endfor %}
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for row in customer_data %}
+                        <tr data-customer-id="{{ row['Customer ID'] }}" onclick="viewPrediction(this)">
+                            {% for col in row.keys() %}
+                                <td>{{ row[col] }}</td>
+                            {% endfor %}
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script>
+        function viewPrediction(row) {
+            const customerId = row.getAttribute('data-customer-id');
+            fetch(`/predict?customer_id=${customerId}`, {
+                method: 'GET'
+            })
+            .then(response => response.json())
+            .then(data => {
+                document.getElementById('customer-details').innerHTML = `
+                    <h4>Customer Details:</h4>
+                    <ul>
+                        ${Object.keys(data.customer_details).map(key => `<li><b>${key}</b>: ${data.customer_details[key]}</li>`).join('')}
+                    </ul>
+                    <h3>${data.prediction_text}</h3>
+                `;
+                document.getElementById('explanation').innerHTML = `
+                    <h4>Reason for Prediction:</h4>
+                    <p>${data.explanation_text}</p>
+                `;
+            });
+        }
+    </script>
+</body>
+</html>
